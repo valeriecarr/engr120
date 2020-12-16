@@ -1,0 +1,6 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Value,LowCI,HighCI,Confidence Interval,Quartile Range,Suppression Flag
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Race/Hispanic ethnicity,United States,Hispanic or Latino,3,18,Oct 28 - Nov 9,14.5,12.6,16.6,12.6 - 16.6,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic white, single race",3,18,Oct 28 - Nov 9,10.2,9.7,10.8,9.7 - 10.8,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic black, single race",3,18,Oct 28 - Nov 9,12.1,10.1,14.4,10.1 - 14.4,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",3,18,Oct 28 - Nov 9,9.6,7.4,12.2,7.4 - 12.2,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",3,18,Oct 28 - Nov 9,14.7,12.2,17.5,12.2 - 17.5,,

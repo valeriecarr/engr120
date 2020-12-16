@@ -1,0 +1,8 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Value,LowCI,HighCI,Confidence Interval,Quartile Range,Suppression Flag
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,18 - 29 years,3,18,Oct 28 - Nov 9,21.6,19.4,23.9,19.4 - 23.9,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,30 - 39 years,3,18,Oct 28 - Nov 9,16.1,14.8,17.6,14.8 - 17.6,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,40 - 49 years,3,18,Oct 28 - Nov 9,11,10,12.2,10.0 - 12.2,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,50 - 59 years,3,18,Oct 28 - Nov 9,9.7,8.6,10.9,8.6 - 10.9,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,60 - 69 years,3,18,Oct 28 - Nov 9,5.6,4.7,6.6,4.7 - 6.6,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,70 - 79 years,3,18,Oct 28 - Nov 9,3.6,2.8,4.5,2.8 - 4.5,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Age,United States,80 years and above,3,18,Oct 28 - Nov 9,,,,,,1

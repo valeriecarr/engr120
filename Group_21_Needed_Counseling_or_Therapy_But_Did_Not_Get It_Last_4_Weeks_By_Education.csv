@@ -1,0 +1,5 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Value,LowCI,HighCI,Confidence Interval,Quartile Range,Suppression Flag
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Education,United States,Less than a high school diploma,3,18,Oct 28 - Nov 9,11.8,8.6,15.7,8.6 - 15.7,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Education,United States,High school diploma or GED,3,18,Oct 28 - Nov 9,9.3,8.1,10.7,8.1 - 10.7,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Education,United States,Some college/Associate's degree,3,18,Oct 28 - Nov 9,13.4,12.4,14.5,12.4 - 14.5,,
+"Needed Counseling or Therapy But Did Not Get It, Last 4 Weeks",By Education,United States,Bachelor's degree or higher,3,18,Oct 28 - Nov 9,10.8,10.3,11.3,10.3 - 11.3,,

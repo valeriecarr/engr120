@@ -1,0 +1,6 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Value,LowCI,HighCI,Confidence Interval,Quartile Range,Suppression Flag
+"Received Counseling or Therapy, Last 4 Weeks",By Race/Hispanic ethnicity,United States,Hispanic or Latino,3,18,Oct 28 - Nov 9,9.5,8.1,11,8.1 - 11.0,,
+"Received Counseling or Therapy, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic white, single race",3,18,Oct 28 - Nov 9,10,9.4,10.6,9.4 - 10.6,,
+"Received Counseling or Therapy, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic black, single race",3,18,Oct 28 - Nov 9,9.7,8,11.5,8.0 - 11.5,,
+"Received Counseling or Therapy, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",3,18,Oct 28 - Nov 9,6,4.4,8.1,4.4 - 8.1,,
+"Received Counseling or Therapy, Last 4 Weeks",By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",3,18,Oct 28 - Nov 9,12.6,10,15.6,10.0 - 15.6,,

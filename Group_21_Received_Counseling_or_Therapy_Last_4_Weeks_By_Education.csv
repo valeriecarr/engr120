@@ -1,0 +1,5 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Value,LowCI,HighCI,Confidence Interval,Quartile Range,Suppression Flag
+"Received Counseling or Therapy, Last 4 Weeks",By Education,United States,Less than a high school diploma,3,18,Oct 28 - Nov 9,7.8,5.4,10.9,5.4 - 10.9,,
+"Received Counseling or Therapy, Last 4 Weeks",By Education,United States,High school diploma or GED,3,18,Oct 28 - Nov 9,6.5,5.6,7.5,5.6 - 7.5,,
+"Received Counseling or Therapy, Last 4 Weeks",By Education,United States,Some college/Associate's degree,3,18,Oct 28 - Nov 9,11,10.2,11.8,10.2 - 11.8,,
+"Received Counseling or Therapy, Last 4 Weeks",By Education,United States,Bachelor's degree or higher,3,18,Oct 28 - Nov 9,12,11.5,12.5,11.5 - 12.5,,
