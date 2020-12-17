@@ -1,548 +1,548 @@
-,County,ID,Name,GraduationPercent,Graduates,Funds,PerStudent
-0,Alameda,110017,Alameda County Office of Education,23.60%,89,"45,846,580.00",N/A
-0,Alameda,161119,Alameda Unified,76.20%,780,"111,647,221.00","13,654.00"
-0,Alameda,161127,Albany City Unified,81.70%,273,"46,422,662.00","13,519.00"
-0,Alameda,161143,Berkeley Unified,68.90%,732,"156,776,943.00","17,756.00"
-0,Alameda,131617,California School for the Deaf-Fremont (State Special Schl),61.80%,34,,
-0,Alameda,161150,Castro Valley Unified,75.90%,752,"96,921,897.00","12,118.00"
-0,Alameda,175093,Dublin Unified,82.40%,569,"112,036,250.00","11,304.00"
-0,Alameda,161168,Emery Unified,64.90%,37,"11,932,449.00","19,519.00"
-0,Alameda,161176,Fremont Unified,79.90%,"2,468","367,360,459.00","11,519.00"
-0,Alameda,161192,Hayward Unified,55.00%,"1,150","258,575,685.00","14,743.00"
-0,Alameda,161200,Livermore Valley Joint Unified,73.70%,"1,058","146,968,774.00","12,065.00"
-0,Alameda,161242,New Haven Unified,75.30%,926,"126,044,254.00","13,061.00"
-0,Alameda,161234,Newark Unified,65.80%,427,"63,351,035.00","12,575.00"
-0,Alameda,161259,Oakland Unified,58.50%,"2,039","562,832,639.00","17,862.00"
-0,Alameda,161275,Piedmont City Unified,82.90%,205,"39,755,668.00","17,104.00"
-0,Alameda,175101,Pleasanton Unified,85.20%,"1,212","155,015,767.00","12,056.00"
-0,Alameda,161291,San Leandro Unified,65.00%,709,"100,131,784.00","13,351.00"
-0,Alameda,161309,San Lorenzo Unified,60.60%,809,"123,521,629.00","13,789.00"
-0,Amador,310033,Amador County Office of Education,0.00%,13,"11,988,874.00",N/A
-0,Amador,373981,Amador County Unified,49.20%,311,"38,786,120.00","11,764.00"
-0,Butte,461408,Biggs Unified,71.10%,45,"7,499,769.00","13,761.00"
-0,Butte,410041,Butte County Office of Education,*,*,"70,989,139.00",N/A
-0,Butte,461424,Chico Unified,72.00%,929,"133,496,366.00","12,985.00"
-0,Butte,461432,Durham Unified,87.90%,58,"10,439,668.00","11,733.00"
-0,Butte,461440,Feather Falls Union Elementary,68.00%,"1,863","314,772.00","42,066.00"
-0,Butte,461457,Golden Feather Union Elementary,68.00%,"1,863","1,674,965.00","57,851.00"
-0,Butte,475507,Gridley Unified,74.40%,121,"22,288,594.00","13,168.00"
-0,Butte,461515,Oroville Union High,60.60%,459,"27,216,934.00","15,651.00"
-0,Butte,461531,Paradise Unified,60.20%,241,"38,338,727.00","14,208.00"
-0,Calaveras,561556,Bret Harte Union High,68.20%,157,"11,399,554.00","20,310.00"
-0,Calaveras,510058,Calaveras County Office of Education,*,*,"11,476,130.00",N/A
-0,Calaveras,561564,Calaveras Unified,61.10%,221,"30,540,433.00","12,238.00"
-0,Colusa,610066,Colusa County Office of Education,*,*,"10,116,134.00",N/A
-0,Colusa,661598,Colusa Unified,68.40%,95,"16,055,610.00","12,636.00"
-0,Colusa,661606,Maxwell Unified,85.00%,20,"4,145,185.00","14,126.00"
-0,Colusa,661614,Pierce Joint Unified,55.70%,106,"16,126,112.00","12,838.00"
-0,Colusa,661622,Williams Unified,49.50%,95,"16,071,263.00","14,751.00"
-0,Contra Costa,761630,Acalanes Union High,83.40%,"1,388","75,777,414.00","14,863.00"
-0,Contra Costa,761648,Antioch Unified,62.70%,"1,181","192,980,027.00","13,876.00"
-0,Contra Costa,761663,Byron Union Elementary,69.40%,"12,256","17,006,301.00","13,292.00"
-0,Contra Costa,710074,Contra Costa County Office of Education,23.40%,47,"77,590,590.00",N/A
-0,Contra Costa,761697,John Swett Unified,54.20%,131,"19,416,180.00","13,854.00"
-0,Contra Costa,761721,Liberty Union High,68.70%,"1,931","87,217,839.00","12,634.00"
-0,Contra Costa,761739,Martinez Unified,62.40%,295,"43,102,835.00","11,549.00"
-0,Contra Costa,761754,Mt. Diablo Unified,62.40%,"2,020","344,741,728.00","12,947.00"
-0,Contra Costa,761788,Pittsburg Unified,53.90%,851,"136,131,406.00","13,603.00"
-0,Contra Costa,761804,San Ramon Valley Unified,84.70%,"2,581","342,626,148.00","11,609.00"
-0,Contra Costa,761796,West Contra Costa Unified,60.30%,"1,831","354,747,420.00","13,864.00"
-0,Del Norte,810082,Del Norte County Office of Education,17.60%,17,"4,257,272.00",N/A
-0,Del Norte,861820,Del Norte County Unified,54.90%,215,"42,647,942.00","14,202.00"
-0,El Dorado,973783,Black Oak Mine Unified,58.30%,84,"11,830,643.00","12,973.00"
-0,El Dorado,961838,Buckeye Union Elementary,68.70%,"1,865","44,248,528.00","10,919.00"
-0,El Dorado,910090,El Dorado County Office of Education,*,*,"51,342,926.00",N/A
-0,El Dorado,961853,El Dorado Union High,70.70%,"1,530","72,496,933.00","12,547.00"
-0,El Dorado,961903,Lake Tahoe Unified,60.20%,249,"43,875,806.00","13,497.00"
-0,Fresno,1075598,Caruthers Unified,50.00%,132,"19,916,432.00","14,537.00"
-0,Fresno,1073965,Central Unified,71.10%,909,"174,769,813.00","13,256.00"
-0,Fresno,1062117,Clovis Unified,78.00%,"2,972","446,959,902.00","11,838.00"
-0,Fresno,1062125,Coalinga-Huron Unified,72.50%,247,"54,847,558.00","14,575.00"
-0,Fresno,1073809,Firebaugh-Las Deltas Unified,75.30%,162,"29,936,951.00","14,759.00"
-0,Fresno,1062158,Fowler Unified,68.60%,185,"30,347,140.00","13,151.00"
-0,Fresno,1010108,Fresno County Office of Education,9.10%,44,"140,312,495.00",N/A
-0,Fresno,1062166,Fresno Unified,74.30%,"3,735","916,547,448.00","14,754.00"
-0,Fresno,1075234,Golden Plains Unified,48.90%,88,"22,902,412.00","15,778.00"
-0,Fresno,1073999,Kerman Unified,63.10%,333,"61,762,574.00","13,238.00"
-0,Fresno,1062265,Kings Canyon Joint Unified,66.20%,533,"122,548,352.00","14,732.00"
-0,Fresno,1062257,Kingsburg Joint Union High,73.50%,291,"13,325,422.00","13,774.00"
-0,Fresno,1062281,Laton Joint Unified,73.50%,34,"8,988,405.00","14,505.00"
-0,Fresno,1075127,Mendota Unified,64.00%,172,"43,066,887.00","14,787.00"
-0,Fresno,1062331,Orange Center,71.40%,"11,758","3,853,286.00","17,742.00"
-0,Fresno,1062364,Parlier Unified,60.00%,215,"45,567,887.00","14,444.00"
-0,Fresno,1062380,Raisin City Elementary,71.40%,"11,758","4,414,457.00","15,558.00"
-0,Fresno,1075408,Riverdale Joint Unified,66.90%,142,"20,704,979.00","14,807.00"
-0,Fresno,1062414,Sanger Unified,65.30%,734,"128,905,234.00","13,678.00"
-0,Fresno,1062430,Selma Unified,61.70%,446,"79,734,092.00","14,461.00"
-0,Fresno,1075275,Sierra Unified,60.90%,128,"16,324,716.00","14,994.00"
-0,Yolo,5772694,Washington Unified,59.90%,559,"84,911,381.00","13,307.00"
-0,Fresno,1062539,West Park Elementary,71.40%,"11,758","4,939,434.00","15,339.00"
-0,Fresno,1062547,Westside Elementary,71.40%,"11,758","4,234,046.00","17,873.00"
-0,Glenn,1110116,Glenn County Office of Education,*,*,"15,566,222.00",N/A
-0,Glenn,1176562,Hamilton Unified,62.10%,66,"8,044,666.00","12,277.00"
-0,Glenn,1175481,Orland Joint Unified,60.60%,155,"25,998,247.00","13,475.00"
-0,Glenn,1162646,Princeton Joint Unified,69.20%,26,"2,533,258.00","18,270.00"
-0,Glenn,1162653,Stony Creek Joint Unified,*,*,"2,095,067.00","37,748.00"
-0,Glenn,1162661,Willows Unified,64.10%,103,"15,010,785.00","11,908.00"
-0,Humboldt,1275515,Eureka City Schools,56.90%,253,"44,716,470.00","14,419.00"
-0,Humboldt,1275374,Ferndale Unified,59.40%,32,"6,355,282.00","14,783.00"
-0,Humboldt,1262810,Fortuna Union High,57.90%,235,"13,892,983.00","15,770.00"
-0,Humboldt,1210124,Humboldt County Office of Education,21.40%,56,"35,333,168.00",N/A
-0,Humboldt,1262901,Klamath-Trinity Joint Unified,47.00%,66,"19,202,311.00","25,022.00"
-0,Humboldt,1275382,Mattole Unified,*,*,"1,437,228.00","36,337.00"
-0,Humboldt,1262687,Northern Humboldt Union High,55.80%,351,"18,824,272.00","15,256.00"
-0,Humboldt,1263032,South Bay Union Elementary,54.30%,"1,037","5,207,456.00","14,999.00"
-0,Humboldt,1263040,Southern Humboldt Joint Unified,58.10%,43,"9,378,689.00","14,770.00"
-0,Imperial,1363081,Brawley Union High,62.00%,432,"23,822,013.00","14,810.00"
-0,Imperial,1363099,Calexico Unified,72.60%,689,"115,401,564.00","14,778.00"
-0,Imperial,1363107,Calipatria Unified,54.80%,93,"15,075,962.00","15,554.00"
-0,Imperial,1363115,Central Union High,76.40%,917,"52,573,880.00","15,356.00"
-0,Imperial,1363149,Holtville Unified,66.70%,135,"19,753,622.00","14,499.00"
-0,Imperial,1310132,Imperial County Office of Education,38.70%,31,"80,512,794.00",N/A
-0,Imperial,1363164,Imperial Unified,75.30%,279,"43,375,159.00","11,501.00"
-0,Imperial,1363214,San Pasqual Valley Unified,34.30%,35,"13,947,795.00","24,866.00"
-0,Inyo,1463248,Big Pine Unified,45.50%,11,"3,669,455.00","30,517.00"
-0,Inyo,1476687,Bishop Unified,48.90%,139,"21,020,039.00","12,498.00"
-0,Inyo,1463271,Death Valley Unified,*,*,"1,348,191.00","63,346.00"
-0,Inyo,1410140,Inyo County Office of Education,*,*,"8,894,540.00",N/A
-0,Inyo,1463289,Lone Pine Unified,60.90%,23,"6,411,331.00","22,243.00"
-0,Inyo,1463297,Owens Valley Unified,*,*,"1,990,316.00","28,381.00"
-0,Kern,1563412,Delano Joint Union High,43.90%,986,"60,788,497.00","16,219.00"
-0,Kern,1575168,El Tejon Unified,43.70%,71,"9,401,116.00","14,922.00"
-0,Kern,1510157,Kern County Office of Education,18.60%,215,"186,255,008.00",N/A
-0,Kern,1563529,Kern High,50.10%,"8,710","481,111,959.00","14,809.00"
-0,Kern,1563628,Maricopa Unified,59.30%,27,"6,759,607.00","27,221.00"
-0,Kern,1573908,McFarland Unified,49.30%,225,"44,584,346.00","15,514.00"
-0,Kern,1563677,Mojave Unified,32.20%,149,"34,020,886.00","14,668.00"
-0,Kern,1563685,Muroc Joint Unified,58.10%,105,"20,878,577.00","13,045.00"
-0,Kern,1573742,Sierra Sands Unified,45.40%,315,"55,292,299.00","12,476.00"
-0,Kern,1563776,Southern Kern Unified,39.40%,221,"40,368,354.00","13,464.00"
-0,Kern,1563818,Taft Union High,53.40%,208,"27,716,992.00","29,241.00"
-0,Kern,1563826,Tehachapi Unified,46.30%,287,"46,075,178.00","11,940.00"
-0,Kern,1563859,Wasco Union High,46.50%,424,"24,546,212.00","14,966.00"
-0,Kings,1663875,Armona Union Elementary,65.60%,"1,562","12,544,320.00","15,210.00"
-0,Kings,1663891,Corcoran Joint Unified,73.10%,167,"39,706,276.00","14,031.00"
-0,Kings,1663925,Hanford Joint Union High,62.80%,785,"44,355,466.00","13,965.00"
-0,Kings,1610165,Kings County Office of Education,*,*,"30,597,176.00",N/A
-0,Kings,1663958,Kit Carson Union Elementary,65.60%,"1,562","4,538,680.00","13,986.00"
-0,Kings,1663982,Lemoore Union High,67.10%,438,"23,748,669.00","14,147.00"
-0,Kings,1673932,Reef-Sunset Unified,69.80%,162,"34,101,918.00","14,443.00"
-0,Lake,1764014,Kelseyville Unified,40.00%,130,"20,913,425.00","14,666.00"
-0,Lake,1764022,Konocti Unified,49.30%,150,"41,945,946.00","14,096.00"
-0,Lake,1710173,Lake County Office of Education,*,*,"10,127,691.00",N/A
-0,Lake,1764030,Lakeport Unified,33.10%,127,"16,838,040.00","13,935.00"
-0,Lake,1764055,Middletown Unified,45.70%,116,"15,669,426.00","11,975.00"
-0,Lake,1776976,Upper Lake Unified,36.10%,61,"10,059,817.00","15,127.00"
-0,Lassen,1864089,Big Valley Joint Unified,46.70%,15,"2,370,273.00","18,751.00"
-0,Lassen,1875036,Fort Sage Unified,50.00%,12,"2,242,751.00","18,642.00"
-0,Lassen,1864139,Lassen Union High,76.20%,168,"9,365,845.00","14,243.00"
-0,Lassen,1864162,Ravendale-Termo Elementary,73.00%,204,"310,586.00","54,637.00"
-0,Lassen,1864204,Westwood Unified,*,*,"2,475,466.00","16,510.00"
-0,Los Angeles,1964212,ABC Unified,66.30%,"1,651","229,660,090.00","12,359.00"
-0,Los Angeles,1975309,Acton-Agua Dulce Unified,55.80%,95,"17,854,387.00","19,827.00"
-0,Los Angeles,1975713,Alhambra Unified,71.70%,"1,872","215,987,899.00","13,881.00"
-0,Los Angeles,1964246,Antelope Valley Union High,60.80%,"4,446","269,328,394.00","14,920.00"
-0,Los Angeles,1964261,Arcadia Unified,84.60%,883,"106,690,363.00","12,319.00"
-0,Los Angeles,1964279,Azusa Unified,52.80%,600,"113,470,334.00","14,804.00"
-0,Los Angeles,1964287,Baldwin Park Unified,62.60%,973,"176,929,662.00","14,861.00"
-0,Los Angeles,1964295,Bassett Unified,61.80%,285,"46,779,854.00","14,469.00"
-0,Los Angeles,1964303,Bellflower Unified,55.90%,889,"142,319,822.00","13,515.00"
-0,Los Angeles,1964311,Beverly Hills Unified,70.90%,382,"69,220,447.00","20,355.00"
-0,Los Angeles,1964329,Bonita Unified,74.00%,788,"110,363,933.00","11,967.00"
-0,Los Angeles,1964337,Burbank Unified,67.30%,"1,308","156,934,830.00","11,804.00"
-0,Los Angeles,1964352,Centinela Valley Union High,60.30%,"1,495","92,855,085.00","16,352.00"
-0,Los Angeles,1964378,Charter Oak Unified,70.20%,429,"53,373,734.00","12,914.00"
-0,Los Angeles,1964394,Claremont Unified,83.90%,638,"76,136,054.00","12,393.00"
-0,Los Angeles,1973437,Compton Unified,50.00%,"1,136","279,689,377.00","15,844.00"
-0,Los Angeles,1964436,Covina-Valley Unified,72.40%,"1,144","145,828,160.00","13,660.00"
-0,Los Angeles,1964444,Culver City Unified,72.70%,509,"73,832,108.00","11,571.00"
-0,Los Angeles,1964451,Downey Unified,58.10%,"1,971","257,138,431.00","12,999.00"
-0,Los Angeles,1964469,Duarte Unified,66.20%,219,"46,476,140.00","14,113.00"
-0,Los Angeles,1964519,El Monte Union High,73.30%,"2,006","125,207,787.00","16,126.00"
-0,Los Angeles,1964527,El Rancho Unified,56.40%,676,"100,267,989.00","12,874.00"
-0,Los Angeles,1964535,El Segundo Unified,80.60%,273,"38,443,308.00","12,161.00"
-0,Los Angeles,1964568,Glendale Unified,80.60%,"1,941","290,471,082.00","12,896.00"
-0,Los Angeles,1964576,Glendora Unified,81.80%,715,"77,018,823.00","12,016.00"
-0,Los Angeles,1964584,Gorman Joint,63.10%,"88,220","1,326,005.00","17,984.00"
-0,Los Angeles,1973445,Hacienda la Puente Unified,69.20%,"1,459","233,975,165.00","13,883.00"
-0,Los Angeles,1964592,Hawthorne,63.10%,"88,220","97,734,242.00","14,827.00"
-0,Los Angeles,1964634,Inglewood Unified,48.00%,537,"123,735,859.00","15,334.00"
-0,Los Angeles,1964642,Keppel Union Elementary,63.10%,"88,220","32,202,484.00","13,917.00"
-0,Los Angeles,1964659,La Canada Unified,88.50%,349,"46,419,234.00","12,274.00"
-0,Los Angeles,1964683,Las Virgenes Unified,80.30%,"1,008","118,511,731.00","11,585.00"
-0,Los Angeles,1964691,Lawndale Elementary,63.10%,"88,220","74,995,135.00","17,313.00"
-0,Los Angeles,1964709,Lennox,63.10%,"88,220","68,127,245.00","14,881.00"
-0,Los Angeles,1964725,Long Beach Unified,71.10%,"5,193","946,914,661.00","14,050.00"
-0,Los Angeles,1910199,Los Angeles County Office of Education,51.20%,533,"552,054,225.00",N/A
-0,Los Angeles,1964733,Los Angeles Unified,50.80%,"26,633","7,257,688,789.00","16,644.00"
-0,Los Angeles,1964774,Lynwood Unified,49.30%,985,"176,921,014.00","14,390.00"
-0,Los Angeles,1975333,Manhattan Beach Unified,88.10%,606,"74,666,874.00","13,581.00"
-0,Los Angeles,1964790,Monrovia Unified,71.70%,414,"64,611,785.00","12,982.00"
-0,Los Angeles,1964808,Montebello Unified,51.20%,"2,054","360,168,980.00","14,822.00"
-0,Los Angeles,1964840,Norwalk-La Mirada Unified,45.80%,"1,218","216,836,996.00","13,769.00"
-0,Los Angeles,1964857,Palmdale Elementary,63.10%,"88,220","228,242,615.00","13,886.00"
-0,Los Angeles,1964865,Palos Verdes Peninsula Unified,81.00%,"1,097","121,401,940.00","12,112.00"
-0,Los Angeles,1964873,Paramount Unified,53.40%,"1,124","188,751,568.00","14,196.00"
-0,Los Angeles,1964881,Pasadena Unified,72.30%,"1,056","223,679,597.00","14,984.00"
-0,Los Angeles,1964907,Pomona Unified,60.80%,"1,523","308,730,084.00","14,660.00"
-0,Los Angeles,1975341,Redondo Beach Unified,79.50%,669,"94,558,922.00","10,508.00"
-0,Los Angeles,1973452,Rowland Unified,70.00%,"1,033","161,923,497.00","14,091.00"
-0,Los Angeles,1975291,San Gabriel Unified,79.10%,492,"61,336,806.00","13,528.00"
-0,Los Angeles,1964964,San Marino Unified,86.30%,291,"40,558,449.00","14,745.00"
-0,Los Angeles,1964980,Santa Monica-Malibu Unified,72.20%,850,"169,502,752.00","15,975.00"
-0,Los Angeles,1976968,SBE - Academia Avance Charter,63.10%,"88,220",,
-0,Los Angeles,1976885,SBE - Anahuacalmecac International University Preparatory of North America,63.10%,"88,220",,
-0,Los Angeles,1975663,SBE - New West Charter,63.10%,"88,220",,
-0,Los Angeles,1975697,SBE - The School of Arts and Enterprise,63.10%,"88,220",,
-0,Los Angeles,1965029,South Pasadena Unified,85.60%,383,"48,844,401.00","11,239.00"
-0,Los Angeles,1965052,Temple City Unified,87.00%,537,"61,043,473.00","11,871.00"
-0,Los Angeles,1965060,Torrance Unified,78.50%,"1,946","237,564,245.00","11,281.00"
-0,Los Angeles,1973460,Walnut Valley Unified,85.50%,"1,495","147,993,226.00","11,443.00"
-0,Los Angeles,1965094,West Covina Unified,65.60%,796,"110,699,311.00","14,799.00"
-0,Los Angeles,1965128,Whittier Union High,66.90%,"2,904","158,840,476.00","15,940.00"
-0,Los Angeles,1965136,William S. Hart Union High,75.60%,"3,711","233,493,090.00","12,755.00"
-0,Los Angeles,1976869,Wiseburn Unified,63.10%,"88,220","27,216,992.00","12,066.00"
-0,Madera,2075606,Chawanakee Unified,59.00%,39,"8,510,272.00","16,702.00"
-0,Madera,2065201,Chowchilla Union High,63.20%,193,"13,180,993.00","14,132.00"
-0,Madera,2075580,Golden Valley Unified,66.40%,134,"19,596,917.00","11,723.00"
-0,Madera,2010207,Madera County Superintendent of Schools,*,*,"37,084,328.00",N/A
-0,Madera,2065243,Madera Unified,66.70%,"1,145","244,463,646.00","14,482.00"
-0,Madera,2076414,Yosemite Unified,59.20%,174,"18,500,564.00","14,195.00"
-0,Marin,2110215,Marin County Office of Education,33.30%,18,"38,401,795.00",N/A
-0,Marin,2165417,Novato Unified,75.60%,622,"84,790,291.00","13,446.00"
-0,Marin,2165466,San Rafael City High,75.50%,531,"35,781,414.00","15,582.00"
-0,Marin,2173361,Shoreline Unified,57.10%,28,"14,414,479.00","32,028.00"
-0,Marin,2165482,Tamalpais Union High,78.10%,"1,097","82,693,678.00","19,767.00"
-0,Mariposa,2265532,Mariposa County Unified,54.10%,98,"21,439,792.00","14,769.00"
-0,Mendocino,2365540,Anderson Valley Unified,40.00%,30,"7,445,225.00","18,393.00"
-0,Mendocino,2365557,Arena Union Elementary,34.10%,853,,
-0,Mendocino,2365565,Fort Bragg Unified,43.70%,135,"21,399,851.00","14,260.00"
-0,Mendocino,2373916,Laytonville Unified,44.80%,29,"5,385,778.00","17,150.00"
-0,Mendocino,2375218,Leggett Valley Unified,*,*,"2,412,175.00","22,446.00"
-0,Mendocino,2310231,Mendocino County Office of Education,*,*,"19,248,807.00",N/A
-0,Mendocino,2365581,Mendocino Unified,44.20%,52,"8,501,144.00","18,397.00"
-0,Mendocino,2365599,Point Arena Joint Union High,39.40%,33,,
-0,Mendocino,2373866,Potter Valley Community Unified,36.40%,11,"3,821,325.00","17,578.00"
-0,Mendocino,2365607,Round Valley Unified,20.70%,29,"7,464,379.00","21,963.00"
-0,Mendocino,2365615,Ukiah Unified,30.30%,423,"73,009,142.00","14,384.00"
-0,Mendocino,2365623,Willits Unified,27.80%,97,"19,141,863.00","15,047.00"
-0,Merced,2475366,Delhi Unified,56.30%,183,"32,350,376.00","14,280.00"
-0,Merced,2475317,Dos Palos Oro Loma Joint Unified,54.70%,179,"30,082,401.00","14,525.00"
-0,Merced,2473619,Gustine Unified,54.40%,160,"21,979,627.00","14,040.00"
-0,Merced,2465698,Hilmar Unified,58.40%,154,"25,104,254.00","12,429.00"
-0,Merced,2465730,Le Grand Union High,75.20%,109,"7,558,047.00","17,857.00"
-0,Merced,2465755,Los Banos Unified,57.30%,777,"124,319,360.00","12,929.00"
-0,Merced,2410249,Merced County Office of Education,21.80%,206,"78,686,049.00",N/A
-0,Merced,2465789,Merced Union High,65.90%,"2,254","136,391,075.00","15,587.00"
-0,Modoc,2510256,Modoc County Office of Education,*,*,"6,941,688.00",N/A
-0,Modoc,2573585,Modoc Joint Unified,44.00%,50,"9,460,639.00","13,701.00"
-0,Modoc,2565896,Surprise Valley Joint Unified,*,*,"1,995,405.00","18,935.00"
-0,Modoc,2573593,Tulelake Basin Joint Unified,57.10%,35,"6,187,211.00","15,877.00"
-0,Mono,2673668,Eastern Sierra Unified,55.60%,18,"10,228,614.00","27,788.00"
-0,Mono,2673692,Mammoth Unified,46.30%,80,"14,998,657.00","13,033.00"
-0,Mono,2610264,Mono County Office of Education,*,*,"5,236,090.00",N/A
-0,Monterey,2775150,Big Sur Unified,*,*,"798,928.00","88,960.00"
-0,Monterey,2765979,Bradley Union Elementary,61.50%,"4,660","1,255,349.00","16,859.00"
-0,Monterey,2765987,Carmel Unified,78.70%,216,"57,019,749.00","26,177.00"
-0,Monterey,2775473,Gonzales Unified,71.90%,203,"30,502,186.00","14,260.00"
-0,Monterey,2710272,Monterey County Office of Education,25.00%,56,"104,560,152.00",N/A
-0,Monterey,2766092,Monterey Peninsula Unified,62.60%,666,"117,449,031.00","13,875.00"
-0,Monterey,2773825,North Monterey County Unified,44.40%,295,"55,475,072.00","14,096.00"
-0,Monterey,2766134,Pacific Grove Unified,68.20%,132,"30,795,361.00","18,117.00"
-0,Monterey,2766159,Salinas Union High,61.60%,"2,320","182,074,114.00","13,817.00"
-0,Monterey,2775440,Soledad Unified,57.40%,357,"60,110,911.00","14,087.00"
-0,Monterey,2766068,South Monterey County Joint Union High,63.30%,414,"29,506,209.00","15,058.00"
-0,Napa,2866241,Calistoga Joint Unified,59.20%,49,"16,439,600.00","21,786.00"
-0,Napa,2810280,Napa County Office of Education,28.30%,46,"33,928,066.00",N/A
-0,Napa,2866266,Napa Valley Unified,67.60%,"1,356","182,215,320.00","12,793.00"
-0,Napa,2866290,Saint Helena Unified,77.90%,95,"34,176,407.00","29,887.00"
-0,Nevada,2910298,Nevada County Office of Education,*,*,"14,411,067.00",N/A
-0,Nevada,2966357,Nevada Joint Union High,63.30%,577,"34,876,404.00","16,446.00"
-0,Nevada,2976877,Penn Valley Union Elementary,62.70%,585,"6,476,991.00","13,283.00"
-0,Orange,3066431,Anaheim Union High,70.70%,"4,634","376,199,865.00","14,244.00"
-0,Orange,3066449,Brea-Olinda Unified,75.70%,474,"57,694,805.00","10,818.00"
-0,Orange,3066464,Capistrano Unified,79.60%,"3,954","488,031,578.00","11,447.00"
-0,Orange,3066514,Fullerton Joint Union High,72.60%,"3,392","163,507,202.00","13,500.00"
-0,Orange,3066522,Garden Grove Unified,77.80%,"3,385","541,416,335.00","13,758.00"
-0,Orange,3066548,Huntington Beach Union High,81.70%,"3,804","193,215,637.00","13,631.00"
-0,Orange,3073650,Irvine Unified,84.40%,"2,433","369,634,216.00","11,847.00"
-0,Orange,3066555,Laguna Beach Unified,82.40%,261,"60,445,107.00","23,306.00"
-0,Orange,3073924,Los Alamitos Unified,84.50%,825,"103,572,816.00","11,527.00"
-0,Orange,3066597,Newport-Mesa Unified,74.00%,"1,563","308,825,315.00","16,707.00"
-0,Orange,3010306,Orange County Department of Education,33.00%,670,"234,304,894.00",N/A
-0,Orange,3066621,Orange Unified,70.10%,"2,239","285,444,673.00","12,320.00"
-0,Orange,3066647,Placentia-Yorba Linda Unified,78.00%,"2,093","271,690,222.00","11,869.00"
-0,Orange,3073635,Saddleback Valley Unified,77.30%,"2,334","286,877,277.00","12,163.00"
-0,Orange,3066670,Santa Ana Unified,76.50%,"3,148","655,298,589.00","15,003.00"
-0,Orange,3076893,SBE - Magnolia Science Academy Santa Ana,76.10%,"36,995",,
-0,Orange,3073643,Tustin Unified,78.70%,"1,786","256,914,325.00","11,831.00"
-0,Placer,3166845,Loomis Union Elementary,77.10%,"4,969","23,717,531.00","10,979.00"
-0,Placer,3166852,Newcastle Elementary,77.10%,"4,969","8,406,358.00","50,737.00"
-0,Placer,3110314,Placer County Office of Education,40.90%,22,"50,327,347.00",N/A
-0,Placer,3166894,Placer Union High,72.70%,956,"46,370,203.00","13,462.00"
-0,Placer,3175085,Rocklin Unified,85.10%,905,"116,200,810.00","11,321.00"
-0,Placer,3166928,Roseville Joint Union High,79.20%,"2,390","112,564,518.00","12,920.00"
-0,Placer,3166944,Tahoe-Truckee Unified,63.80%,243,"65,787,887.00","19,061.00"
-0,Placer,3166951,Western Placer Unified,67.50%,453,"70,306,135.00","11,866.00"
-0,Plumas,3210322,Plumas County Office of Education,*,*,"3,023,154.00",N/A
-0,Plumas,3266969,Plumas Unified,67.30%,107,"25,782,120.00","16,733.00"
-0,Riverside,3366977,Alvord Unified,47.10%,"1,473","224,915,418.00","13,731.00"
-0,Riverside,3366985,Banning Unified,41.80%,256,"57,927,616.00","14,436.00"
-0,Riverside,3366993,Beaumont Unified,55.40%,646,"107,812,092.00","12,346.00"
-0,Riverside,3331625,California School for the Deaf-Riverside (State Special Schl),54.50%,33,,
-0,Riverside,3373676,Coachella Valley Unified,54.50%,"1,065","244,966,912.00","15,125.00"
-0,Riverside,3367033,Corona-Norco Unified,62.20%,"4,160","556,320,537.00","11,673.00"
-0,Riverside,3367058,Desert Sands Unified,65.40%,"2,053","332,504,461.00","14,281.00"
-0,Riverside,3367082,Hemet Unified,48.70%,"1,532","263,755,066.00","14,282.00"
-0,Riverside,3367090,Jurupa Unified,47.10%,"1,302","230,315,403.00","13,593.00"
-0,Riverside,3375176,Lake Elsinore Unified,51.20%,"1,446","238,617,206.00","12,962.00"
-0,Riverside,3367116,Menifee Union Elementary,56.50%,"29,689","97,390,953.00","10,797.00"
-0,Riverside,3367124,Moreno Valley Unified,51.40%,"2,276","402,872,946.00","14,055.00"
-0,Riverside,3375200,Murrieta Valley Unified,67.70%,"2,014","233,619,841.00","11,378.00"
-0,Riverside,3367157,Nuview Union ,56.50%,"29,689","17,936,732.00","13,172.00"
-0,Riverside,3367173,Palm Springs Unified,58.30%,"1,671","276,913,588.00","14,815.00"
-0,Riverside,3367181,Palo Verde Unified,52.20%,230,"36,834,034.00","13,459.00"
-0,Riverside,3367207,Perris Union High,48.80%,"1,933","120,060,193.00","14,419.00"
-0,Riverside,3310330,Riverside County Office of Education,19.70%,76,"190,625,313.00",N/A
-0,Riverside,3367215,Riverside Unified,57.40%,"2,949","472,284,330.00","13,023.00"
-0,Riverside,3367249,San Jacinto Unified,48.30%,696,"122,983,113.00","13,884.00"
-0,Riverside,3376943,SBE - Baypoint Preparatory Academy,56.50%,"29,689",,
-0,Riverside,3375192,Temecula Valley Unified,68.70%,"2,347","283,693,236.00","11,537.00"
-0,Riverside,3375242,Val Verde Unified,49.40%,"1,531","261,976,173.00","14,660.00"
-0,Sacramento,3432276,California Education Authority (CEA) Headquarters,29.40%,119,,
-0,Sacramento,3473973,Center Joint Unified,64.10%,290,"48,939,526.00","13,519.00"
-0,Sacramento,3467314,Elk Grove Unified,74.20%,"4,431","677,969,106.00","12,539.00"
-0,Sacramento,3467322,Elverta Joint Elementary,67.70%,"14,140","2,855,539.00","14,716.00"
-0,Sacramento,3467330,Folsom-Cordova Unified,75.50%,"1,406","208,701,113.00","12,113.00"
-0,Sacramento,3467355,Galt Joint Union High,63.10%,502,"28,131,891.00","14,487.00"
-0,Sacramento,3475283,Natomas Unified,66.10%,708,"106,255,080.00","12,712.00"
-0,Sacramento,3467413,River Delta Joint Unified,60.50%,129,"22,777,983.00","13,690.00"
-0,Sacramento,3467421,Robla Elementary,67.70%,"14,140","27,699,054.00","15,380.00"
-0,Sacramento,3467439,Sacramento City Unified,64.50%,"2,425","504,534,629.00","14,422.00"
-0,Sacramento,3410348,Sacramento County Office of Education,23.80%,143,"95,502,184.00",N/A
-0,Sacramento,3467447,San Juan Unified,69.80%,"2,643","436,044,268.00","13,210.00"
-0,Sacramento,3476505,Twin Rivers Unified,51.50%,"1,344","332,221,438.00","15,296.00"
-0,San Benito,3575259,Aromas - San Juan Unified,49.40%,87,"13,050,474.00","14,265.00"
-0,San Benito,3510355,San Benito County Office of Education,*,*,"11,937,996.00",N/A
-0,San Benito,3567538,San Benito High,63.90%,682,"35,144,803.00","13,794.00"
-0,San Bernardino,3667587,Adelanto Elementary,60.00%,"25,945","96,317,309.00","13,642.00"
-0,San Bernardino,3675077,Apple Valley Unified,54.90%,802,"145,569,592.00","13,033.00"
-0,San Bernardino,3673858,Baker Valley Unified,*,*,"3,150,042.00","20,769.00"
-0,San Bernardino,3667611,Barstow Unified,61.40%,342,"69,887,525.00","13,448.00"
-0,San Bernardino,3667637,Bear Valley Unified,49.40%,170,"28,743,631.00","13,349.00"
-0,San Bernardino,3667652,Chaffey Joint Union High,68.10%,"5,452","276,204,362.00","13,953.00"
-0,San Bernardino,3667678,Chino Valley Unified,73.40%,"2,278","290,725,083.00","11,509.00"
-0,San Bernardino,3667686,Colton Joint Unified,50.10%,"1,368","268,269,060.00","13,573.00"
-0,San Bernardino,3667710,Fontana Unified,58.20%,"2,793","476,257,722.00","14,924.00"
-0,San Bernardino,3667736,Helendale Elementary,60.00%,"25,945","7,218,663.00","13,577.00"
-0,San Bernardino,3675044,Hesperia Unified,56.40%,"1,609","243,345,271.00","13,289.00"
-0,San Bernardino,3675051,Lucerne Valley Unified,54.50%,44,"10,887,484.00","17,966.00"
-0,San Bernardino,3667777,Morongo Unified,53.60%,476,"99,060,336.00","13,466.00"
-0,San Bernardino,3667801,Needles Unified,39.70%,58,"13,282,505.00","16,246.00"
-0,San Bernardino,3667827,Oro Grande,60.00%,"25,945","10,469,248.00","138,632.00"
-0,San Bernardino,3667843,Redlands Unified,66.10%,"1,645","229,657,292.00","12,769.00"
-0,San Bernardino,3667850,Rialto Unified,54.50%,"1,797","312,414,884.00","14,305.00"
-0,San Bernardino,3667868,Rim of the World Unified,55.80%,242,"36,916,611.00","12,941.00"
-0,San Bernardino,3667876,San Bernardino City Unified,49.40%,"3,059","669,637,335.00","15,764.00"
-0,San Bernardino,3610363,San Bernardino County Office of Education,19.70%,122,"269,476,283.00",N/A
-0,San Bernardino,3673890,Silver Valley Unified,56.80%,81,"30,249,915.00","16,723.00"
-0,San Bernardino,3673957,Snowline Joint Unified,53.80%,515,"79,933,415.00","12,964.00"
-0,San Bernardino,3667892,Trona Joint Unified,42.10%,19,"9,694,246.00","49,424.00"
-0,San Bernardino,3675069,Upland Unified,67.90%,800,"118,673,675.00","12,285.00"
-0,San Bernardino,3667934,Victor Valley Union High,57.00%,"1,538","132,483,416.00","15,149.00"
-0,San Bernardino,3667959,Yucaipa-Calimesa Joint Unified,59.30%,730,"89,011,253.00","12,174.00"
-0,San Diego,3776851,Bonsall Unified,67.90%,56,"25,394,687.00","10,451.00"
-0,San Diego,3767983,Borrego Springs Unified,57.10%,35,"6,776,447.00","19,609.00"
-0,San Diego,3773551,Carlsbad Unified,59.00%,904,"112,415,960.00","11,564.00"
-0,San Diego,3768023,Chula Vista Elementary,68.00%,"29,560","263,068,169.00","13,076.00"
-0,San Diego,3768031,Coronado Unified,79.70%,290,"34,388,684.00","13,014.00"
-0,San Diego,3768049,Dehesa Elementary,68.00%,"29,560","6,223,504.00","21,114.00"
-0,San Diego,3768106,Escondido Union High,62.70%,"1,674","95,077,937.00","15,310.00"
-0,San Diego,3768122,Fallbrook Union High,54.10%,486,"28,955,903.00","15,309.00"
-0,San Diego,3768130,Grossmont Union High,68.40%,"3,480","216,224,197.00","15,353.00"
-0,San Diego,3768155,Jamul-Dulzura Union Elementary,68.00%,"29,560","6,888,110.00","12,896.00"
-0,San Diego,3768163,Julian Union Elementary,68.00%,"29,560","5,854,156.00","18,882.00"
-0,San Diego,3768171,Julian Union High,36.10%,36,"3,066,670.00","27,775.00"
-0,San Diego,3768189,Lakeside Union Elementary,68.00%,"29,560","54,355,631.00","12,426.00"
-0,San Diego,3768213,Mountain Empire Unified,51.60%,91,"22,654,300.00","15,626.00"
-0,San Diego,3773569,Oceanside Unified,32.50%,"1,097","213,650,074.00","13,861.00"
-0,San Diego,3768296,Poway Unified,83.30%,"2,633","364,057,161.00","11,670.00"
-0,San Diego,3768304,Ramona City Unified,62.80%,401,"59,563,961.00","12,049.00"
-0,San Diego,3710371,San Diego County Office of Education,27.70%,285,"247,848,503.00",N/A
-0,San Diego,3768338,San Diego Unified,72.60%,"6,256","1,323,900,625.00","14,607.00"
-0,San Diego,3768346,San Dieguito Union High,74.10%,"2,083","135,266,329.00","12,008.00"
-0,San Diego,3773791,San Marcos Unified,72.60%,"1,388","214,343,262.00","11,814.00"
-0,San Diego,3776471,SBC - High Tech High,68.00%,"29,560",,
-0,San Diego,3777032,SBE - Audeo Charter II,68.00%,"29,560",,
-0,San Diego,3777099,SBE - Grossmont Secondary,68.00%,"29,560",,
-0,San Diego,3777107,SBE - Sweetwater Secondary,68.00%,"29,560",,
-0,San Diego,3768403,Spencer Valley Elementary,68.00%,"29,560","3,821,917.00","101,136.00"
-0,San Diego,3768411,Sweetwater Union High,68.80%,"6,515","456,583,517.00","13,270.00"
-0,San Diego,3768437,Vallecitos Elementary,68.00%,"29,560","3,165,815.00","15,280.00"
-0,San Diego,3775614,Valley Center-Pauma Unified,60.40%,278,"44,763,543.00","13,333.00"
-0,San Diego,3768452,Vista Unified,56.50%,"1,560","251,063,669.00","13,919.00"
-0,San Diego,3775416,Warner Unified,41.70%,12,"4,118,940.00","20,885.00"
-0,San Francisco,3810389,San Francisco County Office of Education,27.30%,44,"109,110,882.00",N/A
-0,San Francisco,3868478,San Francisco Unified,74.80%,"3,633","801,486,215.00","18,440.00"
-0,San Joaquin,3968502,Escalon Unified,66.30%,199,"26,753,470.00","11,869.00"
-0,San Joaquin,3976760,Lammersville Joint Unified,72.20%,266,"44,465,880.00","10,025.00"
-0,San Joaquin,3968569,Lincoln Unified,72.10%,682,"97,679,111.00","12,790.00"
-0,San Joaquin,3968577,Linden Unified,61.10%,157,"24,677,399.00","12,806.00"
-0,San Joaquin,3968585,Lodi Unified,67.10%,"1,836","335,334,405.00","13,651.00"
-0,San Joaquin,3968593,Manteca Unified,58.50%,"1,741","252,909,352.00","12,300.00"
-0,San Joaquin,3968627,New Jerusalem Elementary,62.60%,"8,525","5,044,929.00","202,970.00"
-0,San Joaquin,3968650,Ripon Unified,68.90%,225,"31,835,730.00","11,111.00"
-0,San Joaquin,3910397,San Joaquin County Office of Education,25.60%,246,"129,656,521.00",N/A
-0,San Joaquin,3968676,Stockton Unified,57.70%,"1,805","444,726,473.00","15,033.00"
-0,San Joaquin,3975499,Tracy Joint Unified,66.70%,"1,368","156,991,889.00","12,297.00"
-0,San Luis Obispo,4068700,Atascadero Unified,68.20%,358,"47,767,009.00","11,658.00"
-0,San Luis Obispo,4075465,Coast Unified,65.60%,61,"12,583,468.00","24,409.00"
-0,San Luis Obispo,4068759,Lucia Mar Unified,65.90%,820,"112,277,394.00","12,105.00"
-0,San Luis Obispo,4075457,Paso Robles Joint Unified,59.10%,528,"75,381,576.00","13,220.00"
-0,San Luis Obispo,4068809,San Luis Coastal Unified,73.30%,561,"93,490,183.00","14,073.00"
-0,San Luis Obispo,4010405,San Luis Obispo County Office of Education,23.30%,30,"32,498,376.00",N/A
-0,San Luis Obispo,4068833,Shandon Joint Unified,65.00%,20,"4,866,828.00","17,176.00"
-0,San Luis Obispo,4068841,Templeton Unified,78.30%,212,"25,230,512.00","11,616.00"
-0,San Mateo,4168890,Cabrillo Unified,72.10%,258,"36,135,265.00","13,058.00"
-0,San Mateo,4168916,Jefferson Elementary,75.80%,"6,066","70,880,794.00","13,108.00"
-0,San Mateo,4168924,Jefferson Union High,74.70%,"1,059","61,601,045.00","15,383.00"
-0,San Mateo,4168940,La Honda-Pescadero Unified,44.40%,27,"6,229,407.00","20,696.00"
-0,San Mateo,4168999,Ravenswood City Elementary,75.80%,"6,066","47,858,528.00","20,328.00"
-0,San Mateo,4110413,San Mateo County Office of Education,34.40%,32,"92,619,276.00",N/A
-0,San Mateo,4169047,San Mateo Union High,81.00%,"2,082","160,740,605.00","21,171.00"
-0,San Mateo,4169062,Sequoia Union High,73.20%,"1,974","159,634,694.00","20,586.00"
-0,San Mateo,4169070,South San Francisco Unified,73.50%,634,"103,359,427.00","13,891.00"
-0,Santa Barbara,4269112,Blochman Union Elementary,67.40%,"4,492","2,694,677.00","15,144.00"
-0,Santa Barbara,4269146,Carpinteria Unified,69.20%,156,"29,359,543.00","14,664.00"
-0,Santa Barbara,4275010,Cuyama Joint Unified,21.40%,14,"3,212,265.00","20,070.00"
-0,Santa Barbara,4269229,Lompoc Unified,63.50%,622,"111,538,616.00","13,549.00"
-0,Santa Barbara,4269260,Orcutt Union Elementary,67.40%,"4,492","46,110,908.00","12,326.00"
-0,Santa Barbara,4210421,Santa Barbara County Office of Education,23.80%,21,"51,830,895.00",N/A
-0,Santa Barbara,4276786,Santa Barbara Unified,75.80%,"1,633","163,793,096.00","13,393.00"
-0,Santa Barbara,4269310,Santa Maria Joint Union High,61.20%,"1,820","98,692,421.00","15,056.00"
-0,Santa Barbara,4269328,Santa Ynez Valley Union High,73.90%,226,"13,355,576.00","15,345.00"
-0,Santa Barbara,4276950,SBE - Olive Grove Charter,67.40%,"4,492",,
-0,Santa Clara,4369401,Campbell Union High,78.30%,"1,764","105,323,823.00","14,942.00"
-0,Santa Clara,4369427,East Side Union High,75.30%,"5,324","272,175,508.00","14,000.00"
-0,Santa Clara,4369468,Fremont Union High,83.70%,"2,662","153,164,140.00","16,353.00"
-0,Santa Clara,4369484,Gilroy Unified,66.70%,819,"124,945,375.00","13,072.00"
-0,Santa Clara,4369534,Los Gatos-Saratoga Joint Union High,86.80%,783,"56,728,975.00","17,950.00"
-0,Santa Clara,4373387,Milpitas Unified,76.10%,863,"111,160,850.00","12,410.00"
-0,Santa Clara,4369583,Morgan Hill Unified,74.30%,622,"90,006,742.00","12,676.00"
-0,Santa Clara,4369609,Mountain View-Los Altos Union High,80.10%,985,"89,745,536.00","23,466.00"
-0,Santa Clara,4369641,Palo Alto Unified,84.00%,938,"240,737,069.00","23,117.00"
-0,Santa Clara,4369666,San Jose Unified,70.90%,"2,378","350,922,599.00","13,282.00"
-0,Santa Clara,4310439,Santa Clara County Office of Education,31.40%,51,"249,040,954.00",N/A
-0,Santa Clara,4369674,Santa Clara Unified,74.70%,"1,027","261,430,723.00","19,699.00"
-0,Santa Cruz,4469765,Live Oak Elementary,66.60%,"2,363","19,936,653.00","13,364.00"
-0,Santa Cruz,4469799,Pajaro Valley Unified,69.90%,"1,040","234,679,080.00","15,014.00"
-0,Santa Cruz,4469807,San Lorenzo Valley Unified,74.10%,162,"26,930,934.00","13,397.00"
-0,Santa Cruz,4469823,Santa Cruz City High,68.90%,721,,
-0,Santa Cruz,4410447,Santa Cruz County Office of Education,31.90%,273,"53,738,842.00",N/A
-0,Santa Cruz,4475432,Scotts Valley Unified,85.00%,167,"24,610,803.00","10,991.00"
-0,Shasta,4569856,Anderson Union High,57.30%,368,"18,987,066.00","14,308.00"
-0,Shasta,4569989,Fall River Joint Unified,63.00%,73,"15,280,001.00","14,423.00"
-0,Shasta,4575267,Gateway Unified,52.30%,149,"31,215,598.00","16,603.00"
-0,Shasta,4570110,Redding Elementary,60.80%,"1,463","33,214,949.00","13,287.00"
-0,Shasta,4510454,Shasta County Office of Education,9.10%,11,"28,170,501.00",N/A
-0,Shasta,4570136,Shasta Union High,64.20%,862,"52,873,387.00","14,205.00"
-0,Shasta,4570169,Whitmore Union Elementary,60.80%,"1,463","716,672.00","26,803.00"
-0,Sierra,4670177,Sierra-Plumas Joint Unified,53.80%,26,"6,196,064.00","16,715.00"
-0,Siskiyou,4773684,Butte Valley Unified,38.90%,18,"4,806,957.00","17,223.00"
-0,Siskiyou,4770250,Dunsmuir Joint Union High,57.10%,14,"1,829,551.00","35,316.00"
-0,Siskiyou,4776455,Scott Valley Unified,60.00%,55,"8,729,894.00","15,781.00"
-0,Siskiyou,4710470,Siskiyou County Office of Education,*,*,"14,751,870.00",N/A
-0,Siskiyou,4770466,Siskiyou Union High,68.00%,125,"8,541,490.00","17,539.00"
-0,Siskiyou,4770516,Yreka Union High,64.90%,111,"8,949,929.00","15,965.00"
-0,Solano,4870524,Benicia Unified,69.80%,420,"46,676,836.00","11,719.00"
-0,Solano,4870532,Dixon Unified,61.90%,257,"34,103,347.00","12,592.00"
-0,Solano,4870540,Fairfield-Suisun Unified,60.50%,"1,311","215,365,169.00","11,898.00"
-0,Solano,4810488,Solano County Office of Education,33.30%,15,"46,409,018.00",N/A
-0,Solano,4870565,Travis Unified,63.50%,430,"57,644,949.00","12,065.00"
-0,Solano,4870573,Vacaville Unified,58.40%,863,"113,370,598.00","11,937.00"
-0,Solano,4870581,Vallejo City Unified,53.90%,709,"150,804,918.00","14,662.00"
-0,Sonoma,4970656,Cloverdale Unified,53.20%,94,"16,301,140.00","13,692.00"
-0,Sonoma,4973882,Cotati-Rohnert Park Unified,66.80%,440,"64,925,022.00","12,849.00"
-0,Sonoma,4970706,Geyserville Unified,60.00%,20,"3,818,725.00","18,908.00"
-0,Sonoma,4970722,Guerneville Elementary,64.00%,"4,332","3,717,650.00","23,446.00"
-0,Sonoma,4970730,Harmony Union Elementary,64.00%,"4,332","4,593,584.00","20,090.00"
-0,Sonoma,4975390,Healdsburg Unified,69.20%,143,"24,537,338.00","19,390.00"
-0,Sonoma,4970797,Liberty Elementary,64.00%,"4,332","3,865,073.00","20,350.00"
-0,Sonoma,4970839,Oak Grove Union Elementary,64.00%,"4,332","10,164,282.00","14,251.00"
-0,Sonoma,4970854,Petaluma City Elementary,*,*,,
-0,Sonoma,4970862,Petaluma Joint Union High,70.80%,720,,
-0,Sonoma,4970870,Piner-Olivet Union Elementary,64.00%,"4,332","13,989,356.00","15,539.00"
-0,Sonoma,4970904,Roseland,64.00%,"4,332","32,324,885.00","25,750.00"
-0,Sonoma,4970920,Santa Rosa High,60.10%,"1,758",,
-0,Sonoma,4910496,Sonoma County Office of Education,25.00%,20,"68,130,565.00",N/A
-0,Sonoma,4970953,Sonoma Valley Unified,65.80%,301,"50,828,088.00","15,726.00"
-0,Sonoma,4970961,Twin Hills Union Elementary,64.00%,"4,332","7,865,908.00","13,474.00"
-0,Sonoma,4970607,West Sonoma County Union High,68.80%,439,"25,833,175.00","15,181.00"
-0,Sonoma,4975358,Windsor Unified,62.00%,392,"46,007,138.00","13,706.00"
-0,Stanislaus,5071043,Ceres Unified,58.40%,875,"162,875,365.00","13,556.00"
-0,Stanislaus,5071068,Denair Unified,57.40%,61,"14,530,278.00","13,014.00"
-0,Stanislaus,5071092,Hart-Ransom Union Elementary,61.80%,"6,770","8,511,665.00","11,646.00"
-0,Stanislaus,5075549,Hughson Unified,61.60%,146,"22,928,163.00","12,283.00"
-0,Stanislaus,5071134,Keyes Union,61.80%,"6,770","9,699,303.00","14,722.00"
-0,Stanislaus,5071175,Modesto City High,64.60%,"3,202",,
-0,Stanislaus,5073601,Newman-Crows Landing Unified,57.90%,202,"35,725,597.00","14,122.00"
-0,Stanislaus,5075564,Oakdale Joint Unified,60.90%,361,"56,095,129.00","11,881.00"
-0,Stanislaus,5071217,Patterson Joint Unified,56.60%,445,"74,003,236.00","14,597.00"
-0,Stanislaus,5075556,Riverbank Unified,52.20%,205,"32,068,344.00","15,858.00"
-0,Stanislaus,5010504,Stanislaus County Office of Education,17.60%,85,"122,558,216.00",N/A
-0,Stanislaus,5075739,Turlock Unified,65.40%,"1,061","162,694,695.00","13,382.00"
-0,Stanislaus,5075572,Waterford Unified,55.10%,127,"24,982,819.00","15,308.00"
-0,Sutter,5171373,East Nicolaus Joint Union High,68.60%,70,"3,823,221.00","14,526.00"
-0,Sutter,5171399,Live Oak Unified,64.70%,133,"22,056,187.00","13,297.00"
-0,Sutter,5171407,Marcum-Illinois Union Elementary,63.30%,"1,232","2,331,122.00","15,556.00"
-0,Sutter,5171415,Meridian Elementary,63.30%,"1,232","1,761,573.00","39,812.00"
-0,Sutter,5171423,Nuestro Elementary,63.30%,"1,232","1,634,354.00","12,239.00"
-0,Sutter,5110512,Sutter County Office of Education,28.60%,21,"35,604,569.00",N/A
-0,Sutter,5171449,Sutter Union High,69.40%,183,"8,039,274.00","12,641.00"
-0,Sutter,5171456,Winship-Robbins,63.30%,"1,232","2,719,458.00","23,763.00"
-0,Sutter,5171464,Yuba City Unified,62.20%,825,"138,231,663.00","13,557.00"
-0,Tehama,5271506,Corning Union High,58.00%,224,"12,804,048.00","15,464.00"
-0,Tehama,5271522,Evergreen Union,55.40%,643,"11,199,484.00","12,014.00"
-0,Tehama,5271571,Los Molinos Unified,58.10%,43,"7,360,691.00","15,072.00"
-0,Tehama,5271639,Red Bluff Joint Union High,53.70%,374,"20,092,050.00","14,668.00"
-0,Tehama,5210520,Tehama County Department of Education,*,*,"20,139,099.00",N/A
-0,Trinity,5375028,Mountain Valley Unified,53.30%,15,"4,456,867.00","18,934.00"
-0,Trinity,5376513,Trinity Alps Unified,52.40%,82,"9,932,250.00","15,146.00"
-0,Trinity,5310538,Trinity County Office of Education,52.60%,97,"4,729,956.00",N/A
-0,Tulare,5471803,Alpaugh Unified,42.10%,19,"4,515,510.00","16,581.00"
-0,Tulare,5471837,Burton Elementary,61.70%,"5,729","50,749,921.00","12,305.00"
-0,Tulare,5471860,Cutler-Orosi Joint Unified,54.40%,283,"57,615,753.00","15,909.00"
-0,Tulare,5475531,Dinuba Unified,58.10%,468,"78,717,886.00","13,558.00"
-0,Tulare,5476836,Exeter Unified,61.50%,260,"31,668,343.00","13,452.00"
-0,Tulare,5475325,Farmersville Unified,55.30%,179,"32,380,531.00","14,930.00"
-0,Tulare,5471993,Lindsay Unified,56.30%,268,"63,039,477.00","19,136.00"
-0,Tulare,5475523,Porterville Unified,50.50%,"1,278","171,035,024.00","14,800.00"
-0,Tulare,5472140,Stone Corral Elementary,61.70%,"5,729","2,089,484.00","15,632.00"
-0,Tulare,5410546,Tulare County Office of Education,26.70%,15,"131,243,508.00",N/A
-0,Tulare,5472249,Tulare Joint Union High,67.80%,"1,146","69,727,950.00","14,725.00"
-0,Tulare,5472256,Visalia Unified,70.10%,"1,673","325,513,035.00","13,440.00"
-0,Tulare,5476794,Woodlake Unified,65.70%,140,"28,812,018.00","15,803.00"
-0,Tuolumne,5575184,Big Oak Flat-Groveland Unified,66.70%,18,"5,984,017.00","22,503.00"
-0,Tuolumne,5572389,Sonora Union High,58.40%,250,"13,292,294.00","14,735.00"
-0,Tuolumne,5572413,Summerville Union High,62.60%,123,"7,075,504.00","20,836.00"
-0,Tuolumne,5510553,Tuolumne County Superintendent of Schools,*,*,"12,439,378.00",N/A
-0,Ventura,5673759,Conejo Valley Unified,80.00%,"1,788","188,259,072.00","11,165.00"
-0,Ventura,5672454,Fillmore Unified,66.10%,251,"45,701,161.00","13,945.00"
-0,Ventura,5672470,Mesa Union Elementary,75.00%,"9,767","6,291,348.00","11,421.00"
-0,Ventura,5673940,Moorpark Unified,80.20%,495,"65,243,306.00","11,406.00"
-0,Ventura,5673874,Oak Park Unified,83.90%,416,"43,346,269.00","10,538.00"
-0,Ventura,5672520,Ojai Unified,67.90%,165,"26,979,505.00","13,480.00"
-0,Ventura,5672546,Oxnard Union High,72.20%,"3,613","198,794,407.00","13,979.00"
-0,Ventura,5676828,Santa Paula Unified,71.00%,396,"69,396,470.00","14,302.00"
-0,Ventura,5672603,Simi Valley Unified,73.90%,"1,312","175,423,207.00","11,791.00"
-0,Ventura,5610561,Ventura County Office of Education,22.20%,45,"117,203,312.00",N/A
-0,Ventura,5672652,Ventura Unified,77.80%,"1,286","184,311,916.00","12,525.00"
-0,Yolo,5772678,Davis Joint Unified,80.80%,605,"90,272,576.00","13,447.00"
-0,Yolo,5772686,Esparto Unified,58.30%,84,"11,458,176.00","16,351.00"
-0,Yolo,5772702,Winters Joint Unified,47.90%,119,"17,812,691.00","13,120.00"
-0,Yolo,5772710,Woodland Joint Unified,59.20%,676,"110,750,601.00","13,128.00"
-0,Yolo,5710579,Yolo County Office of Education,26.10%,23,"23,343,686.00",N/A
-0,Yuba,5872728,Camptonville Elementary,51.40%,675,"799,323.00","18,047.00"
-0,Yuba,5872736,Marysville Joint Unified,49.90%,531,"113,350,550.00","13,649.00"
-0,Yuba,5872769,Wheatland Union High,59.70%,134,"8,657,346.00","13,316.00"
-0,Yuba,5810587,Yuba County Office of Education,*,*,"18,431,554.00",N/A
+County,ID,Name,GraduationProportion,Graduates,Funds,PerStudent
+Alameda,110017,Alameda County Office of Education,0.24,89,45846580,N/A
+Alameda,161119,Alameda Unified,0.76,780,111647221,13654
+Alameda,161127,Albany City Unified,0.82,273,46422662,13519
+Alameda,161143,Berkeley Unified,0.69,732,156776943,17756
+Alameda,131617,California School for the Deaf-Fremont (State Special Schl),0.62,34,,
+Alameda,161150,Castro Valley Unified,0.76,752,96921897,12118
+Alameda,175093,Dublin Unified,0.82,569,112036250,11304
+Alameda,161168,Emery Unified,0.65,37,11932449,19519
+Alameda,161176,Fremont Unified,0.8,2468,367360459,11519
+Alameda,161192,Hayward Unified,0.55,1150,258575685,14743
+Alameda,161200,Livermore Valley Joint Unified,0.74,1058,146968774,12065
+Alameda,161242,New Haven Unified,0.75,926,126044254,13061
+Alameda,161234,Newark Unified,0.66,427,63351035,12575
+Alameda,161259,Oakland Unified,0.59,2039,562832639,17862
+Alameda,161275,Piedmont City Unified,0.83,205,39755668,17104
+Alameda,175101,Pleasanton Unified,0.85,1212,155015767,12056
+Alameda,161291,San Leandro Unified,0.65,709,100131784,13351
+Alameda,161309,San Lorenzo Unified,0.61,809,123521629,13789
+Amador,310033,Amador County Office of Education,0,13,11988874,N/A
+Amador,373981,Amador County Unified,0.49,311,38786120,11764
+Butte,461408,Biggs Unified,0.71,45,7499769,13761
+Butte,410041,Butte County Office of Education,N/A,N/A,70989139,N/A
+Butte,461424,Chico Unified,0.72,929,133496366,12985
+Butte,461432,Durham Unified,0.88,58,10439668,11733
+Butte,461440,Feather Falls Union Elementary,0.68,1863,314772,42066
+Butte,461457,Golden Feather Union Elementary,0.68,1863,1674965,57851
+Butte,475507,Gridley Unified,0.74,121,22288594,13168
+Butte,461515,Oroville Union High,0.61,459,27216934,15651
+Butte,461531,Paradise Unified,0.6,241,38338727,14208
+Calaveras,561556,Bret Harte Union High,0.68,157,11399554,20310
+Calaveras,510058,Calaveras County Office of Education,N/A,N/A,11476130,N/A
+Calaveras,561564,Calaveras Unified,0.61,221,30540433,12238
+Colusa,610066,Colusa County Office of Education,N/A,N/A,10116134,N/A
+Colusa,661598,Colusa Unified,0.68,95,16055610,12636
+Colusa,661606,Maxwell Unified,0.85,20,4145185,14126
+Colusa,661614,Pierce Joint Unified,0.56,106,16126112,12838
+Colusa,661622,Williams Unified,0.5,95,16071263,14751
+Contra Costa,761630,Acalanes Union High,0.83,1388,75777414,14863
+Contra Costa,761648,Antioch Unified,0.63,1181,192980027,13876
+Contra Costa,761663,Byron Union Elementary,0.69,12256,17006301,13292
+Contra Costa,710074,Contra Costa County Office of Education,0.23,47,77590590,N/A
+Contra Costa,761697,John Swett Unified,0.54,131,19416180,13854
+Contra Costa,761721,Liberty Union High,0.69,1931,87217839,12634
+Contra Costa,761739,Martinez Unified,0.62,295,43102835,11549
+Contra Costa,761754,Mt. Diablo Unified,0.62,2020,344741728,12947
+Contra Costa,761788,Pittsburg Unified,0.54,851,136131406,13603
+Contra Costa,761804,San Ramon Valley Unified,0.85,2581,342626148,11609
+Contra Costa,761796,West Contra Costa Unified,0.6,1831,354747420,13864
+Del Norte,810082,Del Norte County Office of Education,0.18,17,4257272,N/A
+Del Norte,861820,Del Norte County Unified,0.55,215,42647942,14202
+El Dorado,973783,Black Oak Mine Unified,0.58,84,11830643,12973
+El Dorado,961838,Buckeye Union Elementary,0.69,1865,44248528,10919
+El Dorado,910090,El Dorado County Office of Education,N/A,N/A,51342926,N/A
+El Dorado,961853,El Dorado Union High,0.71,1530,72496933,12547
+El Dorado,961903,Lake Tahoe Unified,0.6,249,43875806,13497
+Fresno,1075598,Caruthers Unified,0.5,132,19916432,14537
+Fresno,1073965,Central Unified,0.71,909,174769813,13256
+Fresno,1062117,Clovis Unified,0.78,2972,446959902,11838
+Fresno,1062125,Coalinga-Huron Unified,0.73,247,54847558,14575
+Fresno,1073809,Firebaugh-Las Deltas Unified,0.75,162,29936951,14759
+Fresno,1062158,Fowler Unified,0.69,185,30347140,13151
+Fresno,1010108,Fresno County Office of Education,0.09,44,140312495,N/A
+Fresno,1062166,Fresno Unified,0.74,3735,916547448,14754
+Fresno,1075234,Golden Plains Unified,0.49,88,22902412,15778
+Fresno,1073999,Kerman Unified,0.63,333,61762574,13238
+Fresno,1062265,Kings Canyon Joint Unified,0.66,533,122548352,14732
+Fresno,1062257,Kingsburg Joint Union High,0.74,291,13325422,13774
+Fresno,1062281,Laton Joint Unified,0.74,34,8988405,14505
+Fresno,1075127,Mendota Unified,0.64,172,43066887,14787
+Fresno,1062331,Orange Center,0.71,11758,3853286,17742
+Fresno,1062364,Parlier Unified,0.6,215,45567887,14444
+Fresno,1062380,Raisin City Elementary,0.71,11758,4414457,15558
+Fresno,1075408,Riverdale Joint Unified,0.67,142,20704979,14807
+Fresno,1062414,Sanger Unified,0.65,734,128905234,13678
+Fresno,1062430,Selma Unified,0.62,446,79734092,14461
+Fresno,1075275,Sierra Unified,0.61,128,16324716,14994
+Yolo,5772694,Washington Unified,0.6,559,84911381,13307
+Fresno,1062539,West Park Elementary,0.71,11758,4939434,15339
+Fresno,1062547,Westside Elementary,0.71,11758,4234046,17873
+Glenn,1110116,Glenn County Office of Education,N/A,N/A,15566222,N/A
+Glenn,1176562,Hamilton Unified,0.62,66,8044666,12277
+Glenn,1175481,Orland Joint Unified,0.61,155,25998247,13475
+Glenn,1162646,Princeton Joint Unified,0.69,26,2533258,18270
+Glenn,1162653,Stony Creek Joint Unified,N/A,N/A,2095067,37748
+Glenn,1162661,Willows Unified,0.64,103,15010785,11908
+Humboldt,1275515,Eureka City Schools,0.57,253,44716470,14419
+Humboldt,1275374,Ferndale Unified,0.59,32,6355282,14783
+Humboldt,1262810,Fortuna Union High,0.58,235,13892983,15770
+Humboldt,1210124,Humboldt County Office of Education,0.21,56,35333168,N/A
+Humboldt,1262901,Klamath-Trinity Joint Unified,0.47,66,19202311,25022
+Humboldt,1275382,Mattole Unified,N/A,N/A,1437228,36337
+Humboldt,1262687,Northern Humboldt Union High,0.56,351,18824272,15256
+Humboldt,1263032,South Bay Union Elementary,0.54,1037,5207456,14999
+Humboldt,1263040,Southern Humboldt Joint Unified,0.58,43,9378689,14770
+Imperial,1363081,Brawley Union High,0.62,432,23822013,14810
+Imperial,1363099,Calexico Unified,0.73,689,115401564,14778
+Imperial,1363107,Calipatria Unified,0.55,93,15075962,15554
+Imperial,1363115,Central Union High,0.76,917,52573880,15356
+Imperial,1363149,Holtville Unified,0.67,135,19753622,14499
+Imperial,1310132,Imperial County Office of Education,0.39,31,80512794,N/A
+Imperial,1363164,Imperial Unified,0.75,279,43375159,11501
+Imperial,1363214,San Pasqual Valley Unified,0.34,35,13947795,24866
+Inyo,1463248,Big Pine Unified,0.46,11,3669455,30517
+Inyo,1476687,Bishop Unified,0.49,139,21020039,12498
+Inyo,1463271,Death Valley Unified,N/A,N/A,1348191,63346
+Inyo,1410140,Inyo County Office of Education,N/A,N/A,8894540,N/A
+Inyo,1463289,Lone Pine Unified,0.61,23,6411331,22243
+Inyo,1463297,Owens Valley Unified,N/A,N/A,1990316,28381
+Kern,1563412,Delano Joint Union High,0.44,986,60788497,16219
+Kern,1575168,El Tejon Unified,0.44,71,9401116,14922
+Kern,1510157,Kern County Office of Education,0.19,215,186255008,N/A
+Kern,1563529,Kern High,0.5,8710,481111959,14809
+Kern,1563628,Maricopa Unified,0.59,27,6759607,27221
+Kern,1573908,McFarland Unified,0.49,225,44584346,15514
+Kern,1563677,Mojave Unified,0.32,149,34020886,14668
+Kern,1563685,Muroc Joint Unified,0.58,105,20878577,13045
+Kern,1573742,Sierra Sands Unified,0.45,315,55292299,12476
+Kern,1563776,Southern Kern Unified,0.39,221,40368354,13464
+Kern,1563818,Taft Union High,0.53,208,27716992,29241
+Kern,1563826,Tehachapi Unified,0.46,287,46075178,11940
+Kern,1563859,Wasco Union High,0.47,424,24546212,14966
+Kings,1663875,Armona Union Elementary,0.66,1562,12544320,15210
+Kings,1663891,Corcoran Joint Unified,0.73,167,39706276,14031
+Kings,1663925,Hanford Joint Union High,0.63,785,44355466,13965
+Kings,1610165,Kings County Office of Education,N/A,N/A,30597176,N/A
+Kings,1663958,Kit Carson Union Elementary,0.66,1562,4538680,13986
+Kings,1663982,Lemoore Union High,0.67,438,23748669,14147
+Kings,1673932,Reef-Sunset Unified,0.7,162,34101918,14443
+Lake,1764014,Kelseyville Unified,0.4,130,20913425,14666
+Lake,1764022,Konocti Unified,0.49,150,41945946,14096
+Lake,1710173,Lake County Office of Education,N/A,N/A,10127691,N/A
+Lake,1764030,Lakeport Unified,0.33,127,16838040,13935
+Lake,1764055,Middletown Unified,0.46,116,15669426,11975
+Lake,1776976,Upper Lake Unified,0.36,61,10059817,15127
+Lassen,1864089,Big Valley Joint Unified,0.47,15,2370273,18751
+Lassen,1875036,Fort Sage Unified,0.5,12,2242751,18642
+Lassen,1864139,Lassen Union High,0.76,168,9365845,14243
+Lassen,1864162,Ravendale-Termo Elementary,0.73,204,310586,54637
+Lassen,1864204,Westwood Unified,N/A,N/A,2475466,16510
+Los Angeles,1964212,ABC Unified,0.66,1651,229660090,12359
+Los Angeles,1975309,Acton-Agua Dulce Unified,0.56,95,17854387,19827
+Los Angeles,1975713,Alhambra Unified,0.72,1872,215987899,13881
+Los Angeles,1964246,Antelope Valley Union High,0.61,4446,269328394,14920
+Los Angeles,1964261,Arcadia Unified,0.85,883,106690363,12319
+Los Angeles,1964279,Azusa Unified,0.53,600,113470334,14804
+Los Angeles,1964287,Baldwin Park Unified,0.63,973,176929662,14861
+Los Angeles,1964295,Bassett Unified,0.62,285,46779854,14469
+Los Angeles,1964303,Bellflower Unified,0.56,889,142319822,13515
+Los Angeles,1964311,Beverly Hills Unified,0.71,382,69220447,20355
+Los Angeles,1964329,Bonita Unified,0.74,788,110363933,11967
+Los Angeles,1964337,Burbank Unified,0.67,1308,156934830,11804
+Los Angeles,1964352,Centinela Valley Union High,0.6,1495,92855085,16352
+Los Angeles,1964378,Charter Oak Unified,0.7,429,53373734,12914
+Los Angeles,1964394,Claremont Unified,0.84,638,76136054,12393
+Los Angeles,1973437,Compton Unified,0.5,1136,279689377,15844
+Los Angeles,1964436,Covina-Valley Unified,0.72,1144,145828160,13660
+Los Angeles,1964444,Culver City Unified,0.73,509,73832108,11571
+Los Angeles,1964451,Downey Unified,0.58,1971,257138431,12999
+Los Angeles,1964469,Duarte Unified,0.66,219,46476140,14113
+Los Angeles,1964519,El Monte Union High,0.73,2006,125207787,16126
+Los Angeles,1964527,El Rancho Unified,0.56,676,100267989,12874
+Los Angeles,1964535,El Segundo Unified,0.81,273,38443308,12161
+Los Angeles,1964568,Glendale Unified,0.81,1941,290471082,12896
+Los Angeles,1964576,Glendora Unified,0.82,715,77018823,12016
+Los Angeles,1964584,Gorman Joint,0.63,88220,1326005,17984
+Los Angeles,1973445,Hacienda la Puente Unified,0.69,1459,233975165,13883
+Los Angeles,1964592,Hawthorne,0.63,88220,97734242,14827
+Los Angeles,1964634,Inglewood Unified,0.48,537,123735859,15334
+Los Angeles,1964642,Keppel Union Elementary,0.63,88220,32202484,13917
+Los Angeles,1964659,La Canada Unified,0.89,349,46419234,12274
+Los Angeles,1964683,Las Virgenes Unified,0.8,1008,118511731,11585
+Los Angeles,1964691,Lawndale Elementary,0.63,88220,74995135,17313
+Los Angeles,1964709,Lennox,0.63,88220,68127245,14881
+Los Angeles,1964725,Long Beach Unified,0.71,5193,946914661,14050
+Los Angeles,1910199,Los Angeles County Office of Education,0.51,533,552054225,N/A
+Los Angeles,1964733,Los Angeles Unified,0.51,26633,7257688789,16644
+Los Angeles,1964774,Lynwood Unified,0.49,985,176921014,14390
+Los Angeles,1975333,Manhattan Beach Unified,0.88,606,74666874,13581
+Los Angeles,1964790,Monrovia Unified,0.72,414,64611785,12982
+Los Angeles,1964808,Montebello Unified,0.51,2054,360168980,14822
+Los Angeles,1964840,Norwalk-La Mirada Unified,0.46,1218,216836996,13769
+Los Angeles,1964857,Palmdale Elementary,0.63,88220,228242615,13886
+Los Angeles,1964865,Palos Verdes Peninsula Unified,0.81,1097,121401940,12112
+Los Angeles,1964873,Paramount Unified,0.53,1124,188751568,14196
+Los Angeles,1964881,Pasadena Unified,0.72,1056,223679597,14984
+Los Angeles,1964907,Pomona Unified,0.61,1523,308730084,14660
+Los Angeles,1975341,Redondo Beach Unified,0.8,669,94558922,10508
+Los Angeles,1973452,Rowland Unified,0.7,1033,161923497,14091
+Los Angeles,1975291,San Gabriel Unified,0.79,492,61336806,13528
+Los Angeles,1964964,San Marino Unified,0.86,291,40558449,14745
+Los Angeles,1964980,Santa Monica-Malibu Unified,0.72,850,169502752,15975
+Los Angeles,1976968,SBE - Academia Avance Charter,0.63,88220,,
+Los Angeles,1976885,SBE - Anahuacalmecac International University Preparatory of North America,0.63,88220,,
+Los Angeles,1975663,SBE - New West Charter,0.63,88220,,
+Los Angeles,1975697,SBE - The School of Arts and Enterprise,0.63,88220,,
+Los Angeles,1965029,South Pasadena Unified,0.86,383,48844401,11239
+Los Angeles,1965052,Temple City Unified,0.87,537,61043473,11871
+Los Angeles,1965060,Torrance Unified,0.79,1946,237564245,11281
+Los Angeles,1973460,Walnut Valley Unified,0.86,1495,147993226,11443
+Los Angeles,1965094,West Covina Unified,0.66,796,110699311,14799
+Los Angeles,1965128,Whittier Union High,0.67,2904,158840476,15940
+Los Angeles,1965136,William S. Hart Union High,0.76,3711,233493090,12755
+Los Angeles,1976869,Wiseburn Unified,0.63,88220,27216992,12066
+Madera,2075606,Chawanakee Unified,0.59,39,8510272,16702
+Madera,2065201,Chowchilla Union High,0.63,193,13180993,14132
+Madera,2075580,Golden Valley Unified,0.66,134,19596917,11723
+Madera,2010207,Madera County Superintendent of Schools,N/A,N/A,37084328,N/A
+Madera,2065243,Madera Unified,0.67,1145,244463646,14482
+Madera,2076414,Yosemite Unified,0.59,174,18500564,14195
+Marin,2110215,Marin County Office of Education,0.33,18,38401795,N/A
+Marin,2165417,Novato Unified,0.76,622,84790291,13446
+Marin,2165466,San Rafael City High,0.76,531,35781414,15582
+Marin,2173361,Shoreline Unified,0.57,28,14414479,32028
+Marin,2165482,Tamalpais Union High,0.78,1097,82693678,19767
+Mariposa,2265532,Mariposa County Unified,0.54,98,21439792,14769
+Mendocino,2365540,Anderson Valley Unified,0.4,30,7445225,18393
+Mendocino,2365557,Arena Union Elementary,0.34,853,,
+Mendocino,2365565,Fort Bragg Unified,0.44,135,21399851,14260
+Mendocino,2373916,Laytonville Unified,0.45,29,5385778,17150
+Mendocino,2375218,Leggett Valley Unified,N/A,N/A,2412175,22446
+Mendocino,2310231,Mendocino County Office of Education,N/A,N/A,19248807,N/A
+Mendocino,2365581,Mendocino Unified,0.44,52,8501144,18397
+Mendocino,2365599,Point Arena Joint Union High,0.39,33,,
+Mendocino,2373866,Potter Valley Community Unified,0.36,11,3821325,17578
+Mendocino,2365607,Round Valley Unified,0.21,29,7464379,21963
+Mendocino,2365615,Ukiah Unified,0.3,423,73009142,14384
+Mendocino,2365623,Willits Unified,0.28,97,19141863,15047
+Merced,2475366,Delhi Unified,0.56,183,32350376,14280
+Merced,2475317,Dos Palos Oro Loma Joint Unified,0.55,179,30082401,14525
+Merced,2473619,Gustine Unified,0.54,160,21979627,14040
+Merced,2465698,Hilmar Unified,0.58,154,25104254,12429
+Merced,2465730,Le Grand Union High,0.75,109,7558047,17857
+Merced,2465755,Los Banos Unified,0.57,777,124319360,12929
+Merced,2410249,Merced County Office of Education,0.22,206,78686049,N/A
+Merced,2465789,Merced Union High,0.66,2254,136391075,15587
+Modoc,2510256,Modoc County Office of Education,N/A,N/A,6941688,N/A
+Modoc,2573585,Modoc Joint Unified,0.44,50,9460639,13701
+Modoc,2565896,Surprise Valley Joint Unified,N/A,N/A,1995405,18935
+Modoc,2573593,Tulelake Basin Joint Unified,0.57,35,6187211,15877
+Mono,2673668,Eastern Sierra Unified,0.56,18,10228614,27788
+Mono,2673692,Mammoth Unified,0.46,80,14998657,13033
+Mono,2610264,Mono County Office of Education,N/A,N/A,5236090,N/A
+Monterey,2775150,Big Sur Unified,N/A,N/A,798928,88960
+Monterey,2765979,Bradley Union Elementary,0.62,4660,1255349,16859
+Monterey,2765987,Carmel Unified,0.79,216,57019749,26177
+Monterey,2775473,Gonzales Unified,0.72,203,30502186,14260
+Monterey,2710272,Monterey County Office of Education,0.25,56,104560152,N/A
+Monterey,2766092,Monterey Peninsula Unified,0.63,666,117449031,13875
+Monterey,2773825,North Monterey County Unified,0.44,295,55475072,14096
+Monterey,2766134,Pacific Grove Unified,0.68,132,30795361,18117
+Monterey,2766159,Salinas Union High,0.62,2320,182074114,13817
+Monterey,2775440,Soledad Unified,0.57,357,60110911,14087
+Monterey,2766068,South Monterey County Joint Union High,0.63,414,29506209,15058
+Napa,2866241,Calistoga Joint Unified,0.59,49,16439600,21786
+Napa,2810280,Napa County Office of Education,0.28,46,33928066,N/A
+Napa,2866266,Napa Valley Unified,0.68,1356,182215320,12793
+Napa,2866290,Saint Helena Unified,0.78,95,34176407,29887
+Nevada,2910298,Nevada County Office of Education,N/A,N/A,14411067,N/A
+Nevada,2966357,Nevada Joint Union High,0.63,577,34876404,16446
+Nevada,2976877,Penn Valley Union Elementary,0.63,585,6476991,13283
+Orange,3066431,Anaheim Union High,0.71,4634,376199865,14244
+Orange,3066449,Brea-Olinda Unified,0.76,474,57694805,10818
+Orange,3066464,Capistrano Unified,0.8,3954,488031578,11447
+Orange,3066514,Fullerton Joint Union High,0.73,3392,163507202,13500
+Orange,3066522,Garden Grove Unified,0.78,3385,541416335,13758
+Orange,3066548,Huntington Beach Union High,0.82,3804,193215637,13631
+Orange,3073650,Irvine Unified,0.84,2433,369634216,11847
+Orange,3066555,Laguna Beach Unified,0.82,261,60445107,23306
+Orange,3073924,Los Alamitos Unified,0.85,825,103572816,11527
+Orange,3066597,Newport-Mesa Unified,0.74,1563,308825315,16707
+Orange,3010306,Orange County Department of Education,0.33,670,234304894,N/A
+Orange,3066621,Orange Unified,0.7,2239,285444673,12320
+Orange,3066647,Placentia-Yorba Linda Unified,0.78,2093,271690222,11869
+Orange,3073635,Saddleback Valley Unified,0.77,2334,286877277,12163
+Orange,3066670,Santa Ana Unified,0.77,3148,655298589,15003
+Orange,3076893,SBE - Magnolia Science Academy Santa Ana,0.76,36995,,
+Orange,3073643,Tustin Unified,0.79,1786,256914325,11831
+Placer,3166845,Loomis Union Elementary,0.77,4969,23717531,10979
+Placer,3166852,Newcastle Elementary,0.77,4969,8406358,50737
+Placer,3110314,Placer County Office of Education,0.41,22,50327347,N/A
+Placer,3166894,Placer Union High,0.73,956,46370203,13462
+Placer,3175085,Rocklin Unified,0.85,905,116200810,11321
+Placer,3166928,Roseville Joint Union High,0.79,2390,112564518,12920
+Placer,3166944,Tahoe-Truckee Unified,0.64,243,65787887,19061
+Placer,3166951,Western Placer Unified,0.68,453,70306135,11866
+Plumas,3210322,Plumas County Office of Education,N/A,N/A,3023154,N/A
+Plumas,3266969,Plumas Unified,0.67,107,25782120,16733
+Riverside,3366977,Alvord Unified,0.47,1473,224915418,13731
+Riverside,3366985,Banning Unified,0.42,256,57927616,14436
+Riverside,3366993,Beaumont Unified,0.55,646,107812092,12346
+Riverside,3331625,California School for the Deaf-Riverside (State Special Schl),0.55,33,,
+Riverside,3373676,Coachella Valley Unified,0.55,1065,244966912,15125
+Riverside,3367033,Corona-Norco Unified,0.62,4160,556320537,11673
+Riverside,3367058,Desert Sands Unified,0.65,2053,332504461,14281
+Riverside,3367082,Hemet Unified,0.49,1532,263755066,14282
+Riverside,3367090,Jurupa Unified,0.47,1302,230315403,13593
+Riverside,3375176,Lake Elsinore Unified,0.51,1446,238617206,12962
+Riverside,3367116,Menifee Union Elementary,0.57,29689,97390953,10797
+Riverside,3367124,Moreno Valley Unified,0.51,2276,402872946,14055
+Riverside,3375200,Murrieta Valley Unified,0.68,2014,233619841,11378
+Riverside,3367157,Nuview Union ,0.57,29689,17936732,13172
+Riverside,3367173,Palm Springs Unified,0.58,1671,276913588,14815
+Riverside,3367181,Palo Verde Unified,0.52,230,36834034,13459
+Riverside,3367207,Perris Union High,0.49,1933,120060193,14419
+Riverside,3310330,Riverside County Office of Education,0.2,76,190625313,N/A
+Riverside,3367215,Riverside Unified,0.57,2949,472284330,13023
+Riverside,3367249,San Jacinto Unified,0.48,696,122983113,13884
+Riverside,3376943,SBE - Baypoint Preparatory Academy,0.57,29689,,
+Riverside,3375192,Temecula Valley Unified,0.69,2347,283693236,11537
+Riverside,3375242,Val Verde Unified,0.49,1531,261976173,14660
+Sacramento,3432276,California Education Authority (CEA) Headquarters,0.29,119,,
+Sacramento,3473973,Center Joint Unified,0.64,290,48939526,13519
+Sacramento,3467314,Elk Grove Unified,0.74,4431,677969106,12539
+Sacramento,3467322,Elverta Joint Elementary,0.68,14140,2855539,14716
+Sacramento,3467330,Folsom-Cordova Unified,0.76,1406,208701113,12113
+Sacramento,3467355,Galt Joint Union High,0.63,502,28131891,14487
+Sacramento,3475283,Natomas Unified,0.66,708,106255080,12712
+Sacramento,3467413,River Delta Joint Unified,0.61,129,22777983,13690
+Sacramento,3467421,Robla Elementary,0.68,14140,27699054,15380
+Sacramento,3467439,Sacramento City Unified,0.65,2425,504534629,14422
+Sacramento,3410348,Sacramento County Office of Education,0.24,143,95502184,N/A
+Sacramento,3467447,San Juan Unified,0.7,2643,436044268,13210
+Sacramento,3476505,Twin Rivers Unified,0.52,1344,332221438,15296
+San Benito,3575259,Aromas - San Juan Unified,0.49,87,13050474,14265
+San Benito,3510355,San Benito County Office of Education,N/A,N/A,11937996,N/A
+San Benito,3567538,San Benito High,0.64,682,35144803,13794
+San Bernardino,3667587,Adelanto Elementary,0.6,25945,96317309,13642
+San Bernardino,3675077,Apple Valley Unified,0.55,802,145569592,13033
+San Bernardino,3673858,Baker Valley Unified,N/A,N/A,3150042,20769
+San Bernardino,3667611,Barstow Unified,0.61,342,69887525,13448
+San Bernardino,3667637,Bear Valley Unified,0.49,170,28743631,13349
+San Bernardino,3667652,Chaffey Joint Union High,0.68,5452,276204362,13953
+San Bernardino,3667678,Chino Valley Unified,0.73,2278,290725083,11509
+San Bernardino,3667686,Colton Joint Unified,0.5,1368,268269060,13573
+San Bernardino,3667710,Fontana Unified,0.58,2793,476257722,14924
+San Bernardino,3667736,Helendale Elementary,0.6,25945,7218663,13577
+San Bernardino,3675044,Hesperia Unified,0.56,1609,243345271,13289
+San Bernardino,3675051,Lucerne Valley Unified,0.55,44,10887484,17966
+San Bernardino,3667777,Morongo Unified,0.54,476,99060336,13466
+San Bernardino,3667801,Needles Unified,0.4,58,13282505,16246
+San Bernardino,3667827,Oro Grande,0.6,25945,10469248,138632
+San Bernardino,3667843,Redlands Unified,0.66,1645,229657292,12769
+San Bernardino,3667850,Rialto Unified,0.55,1797,312414884,14305
+San Bernardino,3667868,Rim of the World Unified,0.56,242,36916611,12941
+San Bernardino,3667876,San Bernardino City Unified,0.49,3059,669637335,15764
+San Bernardino,3610363,San Bernardino County Office of Education,0.2,122,269476283,N/A
+San Bernardino,3673890,Silver Valley Unified,0.57,81,30249915,16723
+San Bernardino,3673957,Snowline Joint Unified,0.54,515,79933415,12964
+San Bernardino,3667892,Trona Joint Unified,0.42,19,9694246,49424
+San Bernardino,3675069,Upland Unified,0.68,800,118673675,12285
+San Bernardino,3667934,Victor Valley Union High,0.57,1538,132483416,15149
+San Bernardino,3667959,Yucaipa-Calimesa Joint Unified,0.59,730,89011253,12174
+San Diego,3776851,Bonsall Unified,0.68,56,25394687,10451
+San Diego,3767983,Borrego Springs Unified,0.57,35,6776447,19609
+San Diego,3773551,Carlsbad Unified,0.59,904,112415960,11564
+San Diego,3768023,Chula Vista Elementary,0.68,29560,263068169,13076
+San Diego,3768031,Coronado Unified,0.8,290,34388684,13014
+San Diego,3768049,Dehesa Elementary,0.68,29560,6223504,21114
+San Diego,3768106,Escondido Union High,0.63,1674,95077937,15310
+San Diego,3768122,Fallbrook Union High,0.54,486,28955903,15309
+San Diego,3768130,Grossmont Union High,0.68,3480,216224197,15353
+San Diego,3768155,Jamul-Dulzura Union Elementary,0.68,29560,6888110,12896
+San Diego,3768163,Julian Union Elementary,0.68,29560,5854156,18882
+San Diego,3768171,Julian Union High,0.36,36,3066670,27775
+San Diego,3768189,Lakeside Union Elementary,0.68,29560,54355631,12426
+San Diego,3768213,Mountain Empire Unified,0.52,91,22654300,15626
+San Diego,3773569,Oceanside Unified,0.33,1097,213650074,13861
+San Diego,3768296,Poway Unified,0.83,2633,364057161,11670
+San Diego,3768304,Ramona City Unified,0.63,401,59563961,12049
+San Diego,3710371,San Diego County Office of Education,0.28,285,247848503,N/A
+San Diego,3768338,San Diego Unified,0.73,6256,1323900625,14607
+San Diego,3768346,San Dieguito Union High,0.74,2083,135266329,12008
+San Diego,3773791,San Marcos Unified,0.73,1388,214343262,11814
+San Diego,3776471,SBC - High Tech High,0.68,29560,,
+San Diego,3777032,SBE - Audeo Charter II,0.68,29560,,
+San Diego,3777099,SBE - Grossmont Secondary,0.68,29560,,
+San Diego,3777107,SBE - Sweetwater Secondary,0.68,29560,,
+San Diego,3768403,Spencer Valley Elementary,0.68,29560,3821917,101136
+San Diego,3768411,Sweetwater Union High,0.69,6515,456583517,13270
+San Diego,3768437,Vallecitos Elementary,0.68,29560,3165815,15280
+San Diego,3775614,Valley Center-Pauma Unified,0.6,278,44763543,13333
+San Diego,3768452,Vista Unified,0.57,1560,251063669,13919
+San Diego,3775416,Warner Unified,0.42,12,4118940,20885
+San Francisco,3810389,San Francisco County Office of Education,0.27,44,109110882,N/A
+San Francisco,3868478,San Francisco Unified,0.75,3633,801486215,18440
+San Joaquin,3968502,Escalon Unified,0.66,199,26753470,11869
+San Joaquin,3976760,Lammersville Joint Unified,0.72,266,44465880,10025
+San Joaquin,3968569,Lincoln Unified,0.72,682,97679111,12790
+San Joaquin,3968577,Linden Unified,0.61,157,24677399,12806
+San Joaquin,3968585,Lodi Unified,0.67,1836,335334405,13651
+San Joaquin,3968593,Manteca Unified,0.59,1741,252909352,12300
+San Joaquin,3968627,New Jerusalem Elementary,0.63,8525,5044929,202970
+San Joaquin,3968650,Ripon Unified,0.69,225,31835730,11111
+San Joaquin,3910397,San Joaquin County Office of Education,0.26,246,129656521,N/A
+San Joaquin,3968676,Stockton Unified,0.58,1805,444726473,15033
+San Joaquin,3975499,Tracy Joint Unified,0.67,1368,156991889,12297
+San Luis Obispo,4068700,Atascadero Unified,0.68,358,47767009,11658
+San Luis Obispo,4075465,Coast Unified,0.66,61,12583468,24409
+San Luis Obispo,4068759,Lucia Mar Unified,0.66,820,112277394,12105
+San Luis Obispo,4075457,Paso Robles Joint Unified,0.59,528,75381576,13220
+San Luis Obispo,4068809,San Luis Coastal Unified,0.73,561,93490183,14073
+San Luis Obispo,4010405,San Luis Obispo County Office of Education,0.23,30,32498376,N/A
+San Luis Obispo,4068833,Shandon Joint Unified,0.65,20,4866828,17176
+San Luis Obispo,4068841,Templeton Unified,0.78,212,25230512,11616
+San Mateo,4168890,Cabrillo Unified,0.72,258,36135265,13058
+San Mateo,4168916,Jefferson Elementary,0.76,6066,70880794,13108
+San Mateo,4168924,Jefferson Union High,0.75,1059,61601045,15383
+San Mateo,4168940,La Honda-Pescadero Unified,0.44,27,6229407,20696
+San Mateo,4168999,Ravenswood City Elementary,0.76,6066,47858528,20328
+San Mateo,4110413,San Mateo County Office of Education,0.34,32,92619276,N/A
+San Mateo,4169047,San Mateo Union High,0.81,2082,160740605,21171
+San Mateo,4169062,Sequoia Union High,0.73,1974,159634694,20586
+San Mateo,4169070,South San Francisco Unified,0.74,634,103359427,13891
+Santa Barbara,4269112,Blochman Union Elementary,0.67,4492,2694677,15144
+Santa Barbara,4269146,Carpinteria Unified,0.69,156,29359543,14664
+Santa Barbara,4275010,Cuyama Joint Unified,0.21,14,3212265,20070
+Santa Barbara,4269229,Lompoc Unified,0.64,622,111538616,13549
+Santa Barbara,4269260,Orcutt Union Elementary,0.67,4492,46110908,12326
+Santa Barbara,4210421,Santa Barbara County Office of Education,0.24,21,51830895,N/A
+Santa Barbara,4276786,Santa Barbara Unified,0.76,1633,163793096,13393
+Santa Barbara,4269310,Santa Maria Joint Union High,0.61,1820,98692421,15056
+Santa Barbara,4269328,Santa Ynez Valley Union High,0.74,226,13355576,15345
+Santa Barbara,4276950,SBE - Olive Grove Charter,0.67,4492,,
+Santa Clara,4369401,Campbell Union High,0.78,1764,105323823,14942
+Santa Clara,4369427,East Side Union High,0.75,5324,272175508,14000
+Santa Clara,4369468,Fremont Union High,0.84,2662,153164140,16353
+Santa Clara,4369484,Gilroy Unified,0.67,819,124945375,13072
+Santa Clara,4369534,Los Gatos-Saratoga Joint Union High,0.87,783,56728975,17950
+Santa Clara,4373387,Milpitas Unified,0.76,863,111160850,12410
+Santa Clara,4369583,Morgan Hill Unified,0.74,622,90006742,12676
+Santa Clara,4369609,Mountain View-Los Altos Union High,0.8,985,89745536,23466
+Santa Clara,4369641,Palo Alto Unified,0.84,938,240737069,23117
+Santa Clara,4369666,San Jose Unified,0.71,2378,350922599,13282
+Santa Clara,4310439,Santa Clara County Office of Education,0.31,51,249040954,N/A
+Santa Clara,4369674,Santa Clara Unified,0.75,1027,261430723,19699
+Santa Cruz,4469765,Live Oak Elementary,0.67,2363,19936653,13364
+Santa Cruz,4469799,Pajaro Valley Unified,0.7,1040,234679080,15014
+Santa Cruz,4469807,San Lorenzo Valley Unified,0.74,162,26930934,13397
+Santa Cruz,4469823,Santa Cruz City High,0.69,721,,
+Santa Cruz,4410447,Santa Cruz County Office of Education,0.32,273,53738842,N/A
+Santa Cruz,4475432,Scotts Valley Unified,0.85,167,24610803,10991
+Shasta,4569856,Anderson Union High,0.57,368,18987066,14308
+Shasta,4569989,Fall River Joint Unified,0.63,73,15280001,14423
+Shasta,4575267,Gateway Unified,0.52,149,31215598,16603
+Shasta,4570110,Redding Elementary,0.61,1463,33214949,13287
+Shasta,4510454,Shasta County Office of Education,0.09,11,28170501,N/A
+Shasta,4570136,Shasta Union High,0.64,862,52873387,14205
+Shasta,4570169,Whitmore Union Elementary,0.61,1463,716672,26803
+Sierra,4670177,Sierra-Plumas Joint Unified,0.54,26,6196064,16715
+Siskiyou,4773684,Butte Valley Unified,0.39,18,4806957,17223
+Siskiyou,4770250,Dunsmuir Joint Union High,0.57,14,1829551,35316
+Siskiyou,4776455,Scott Valley Unified,0.6,55,8729894,15781
+Siskiyou,4710470,Siskiyou County Office of Education,N/A,N/A,14751870,N/A
+Siskiyou,4770466,Siskiyou Union High,0.68,125,8541490,17539
+Siskiyou,4770516,Yreka Union High,0.65,111,8949929,15965
+Solano,4870524,Benicia Unified,0.7,420,46676836,11719
+Solano,4870532,Dixon Unified,0.62,257,34103347,12592
+Solano,4870540,Fairfield-Suisun Unified,0.61,1311,215365169,11898
+Solano,4810488,Solano County Office of Education,0.33,15,46409018,N/A
+Solano,4870565,Travis Unified,0.64,430,57644949,12065
+Solano,4870573,Vacaville Unified,0.58,863,113370598,11937
+Solano,4870581,Vallejo City Unified,0.54,709,150804918,14662
+Sonoma,4970656,Cloverdale Unified,0.53,94,16301140,13692
+Sonoma,4973882,Cotati-Rohnert Park Unified,0.67,440,64925022,12849
+Sonoma,4970706,Geyserville Unified,0.6,20,3818725,18908
+Sonoma,4970722,Guerneville Elementary,0.64,4332,3717650,23446
+Sonoma,4970730,Harmony Union Elementary,0.64,4332,4593584,20090
+Sonoma,4975390,Healdsburg Unified,0.69,143,24537338,19390
+Sonoma,4970797,Liberty Elementary,0.64,4332,3865073,20350
+Sonoma,4970839,Oak Grove Union Elementary,0.64,4332,10164282,14251
+Sonoma,4970854,Petaluma City Elementary,N/A,N/A,,
+Sonoma,4970862,Petaluma Joint Union High,0.71,720,,
+Sonoma,4970870,Piner-Olivet Union Elementary,0.64,4332,13989356,15539
+Sonoma,4970904,Roseland,0.64,4332,32324885,25750
+Sonoma,4970920,Santa Rosa High,0.6,1758,,
+Sonoma,4910496,Sonoma County Office of Education,0.25,20,68130565,N/A
+Sonoma,4970953,Sonoma Valley Unified,0.66,301,50828088,15726
+Sonoma,4970961,Twin Hills Union Elementary,0.64,4332,7865908,13474
+Sonoma,4970607,West Sonoma County Union High,0.69,439,25833175,15181
+Sonoma,4975358,Windsor Unified,0.62,392,46007138,13706
+Stanislaus,5071043,Ceres Unified,0.58,875,162875365,13556
+Stanislaus,5071068,Denair Unified,0.57,61,14530278,13014
+Stanislaus,5071092,Hart-Ransom Union Elementary,0.62,6770,8511665,11646
+Stanislaus,5075549,Hughson Unified,0.62,146,22928163,12283
+Stanislaus,5071134,Keyes Union,0.62,6770,9699303,14722
+Stanislaus,5071175,Modesto City High,0.65,3202,,
+Stanislaus,5073601,Newman-Crows Landing Unified,0.58,202,35725597,14122
+Stanislaus,5075564,Oakdale Joint Unified,0.61,361,56095129,11881
+Stanislaus,5071217,Patterson Joint Unified,0.57,445,74003236,14597
+Stanislaus,5075556,Riverbank Unified,0.52,205,32068344,15858
+Stanislaus,5010504,Stanislaus County Office of Education,0.18,85,122558216,N/A
+Stanislaus,5075739,Turlock Unified,0.65,1061,162694695,13382
+Stanislaus,5075572,Waterford Unified,0.55,127,24982819,15308
+Sutter,5171373,East Nicolaus Joint Union High,0.69,70,3823221,14526
+Sutter,5171399,Live Oak Unified,0.65,133,22056187,13297
+Sutter,5171407,Marcum-Illinois Union Elementary,0.63,1232,2331122,15556
+Sutter,5171415,Meridian Elementary,0.63,1232,1761573,39812
+Sutter,5171423,Nuestro Elementary,0.63,1232,1634354,12239
+Sutter,5110512,Sutter County Office of Education,0.29,21,35604569,N/A
+Sutter,5171449,Sutter Union High,0.69,183,8039274,12641
+Sutter,5171456,Winship-Robbins,0.63,1232,2719458,23763
+Sutter,5171464,Yuba City Unified,0.62,825,138231663,13557
+Tehama,5271506,Corning Union High,0.58,224,12804048,15464
+Tehama,5271522,Evergreen Union,0.55,643,11199484,12014
+Tehama,5271571,Los Molinos Unified,0.58,43,7360691,15072
+Tehama,5271639,Red Bluff Joint Union High,0.54,374,20092050,14668
+Tehama,5210520,Tehama County Department of Education,N/A,N/A,20139099,N/A
+Trinity,5375028,Mountain Valley Unified,0.53,15,4456867,18934
+Trinity,5376513,Trinity Alps Unified,0.52,82,9932250,15146
+Trinity,5310538,Trinity County Office of Education,0.53,97,4729956,N/A
+Tulare,5471803,Alpaugh Unified,0.42,19,4515510,16581
+Tulare,5471837,Burton Elementary,0.62,5729,50749921,12305
+Tulare,5471860,Cutler-Orosi Joint Unified,0.54,283,57615753,15909
+Tulare,5475531,Dinuba Unified,0.58,468,78717886,13558
+Tulare,5476836,Exeter Unified,0.62,260,31668343,13452
+Tulare,5475325,Farmersville Unified,0.55,179,32380531,14930
+Tulare,5471993,Lindsay Unified,0.56,268,63039477,19136
+Tulare,5475523,Porterville Unified,0.51,1278,171035024,14800
+Tulare,5472140,Stone Corral Elementary,0.62,5729,2089484,15632
+Tulare,5410546,Tulare County Office of Education,0.27,15,131243508,N/A
+Tulare,5472249,Tulare Joint Union High,0.68,1146,69727950,14725
+Tulare,5472256,Visalia Unified,0.7,1673,325513035,13440
+Tulare,5476794,Woodlake Unified,0.66,140,28812018,15803
+Tuolumne,5575184,Big Oak Flat-Groveland Unified,0.67,18,5984017,22503
+Tuolumne,5572389,Sonora Union High,0.58,250,13292294,14735
+Tuolumne,5572413,Summerville Union High,0.63,123,7075504,20836
+Tuolumne,5510553,Tuolumne County Superintendent of Schools,N/A,N/A,12439378,N/A
+Ventura,5673759,Conejo Valley Unified,0.8,1788,188259072,11165
+Ventura,5672454,Fillmore Unified,0.66,251,45701161,13945
+Ventura,5672470,Mesa Union Elementary,0.75,9767,6291348,11421
+Ventura,5673940,Moorpark Unified,0.8,495,65243306,11406
+Ventura,5673874,Oak Park Unified,0.84,416,43346269,10538
+Ventura,5672520,Ojai Unified,0.68,165,26979505,13480
+Ventura,5672546,Oxnard Union High,0.72,3613,198794407,13979
+Ventura,5676828,Santa Paula Unified,0.71,396,69396470,14302
+Ventura,5672603,Simi Valley Unified,0.74,1312,175423207,11791
+Ventura,5610561,Ventura County Office of Education,0.22,45,117203312,N/A
+Ventura,5672652,Ventura Unified,0.78,1286,184311916,12525
+Yolo,5772678,Davis Joint Unified,0.81,605,90272576,13447
+Yolo,5772686,Esparto Unified,0.58,84,11458176,16351
+Yolo,5772702,Winters Joint Unified,0.48,119,17812691,13120
+Yolo,5772710,Woodland Joint Unified,0.59,676,110750601,13128
+Yolo,5710579,Yolo County Office of Education,0.26,23,23343686,N/A
+Yuba,5872728,Camptonville Elementary,0.51,675,799323,18047
+Yuba,5872736,Marysville Joint Unified,0.5,531,113350550,13649
+Yuba,5872769,Wheatland Union High,0.6,134,8657346,13316
+Yuba,5810587,Yuba County Office of Education,N/A,N/A,18431554,N/A
