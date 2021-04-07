@@ -1,0 +1,227 @@
+degree_type,grad_degree,org_type,sector,gender
+BA,None,For profit org,Other,Female
+BA,None,For profit org,Retail,Female
+BA,None,For profit org,Business,Female
+BA,None,For profit org,Comm/marketing/PR,Male
+BA,None,For profit org,CS/tech,Male
+BA,None,,,Male
+BA,None,For profit org,Other,Male
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,For profit org,Business,Female
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,For profit org,Media/journ/pub,Female
+BA,None,Non profit org,Social services,Female
+BA,None,For profit org,CS/tech,Male
+BA,None,Self employed,Other,Female
+BA,None,For profit org,Law/legal services,Female
+BA,None,Other,Other,Male
+BA,None,For profit org,CS/tech,Female
+BA,None,For profit org,CS/tech,Male
+BA,None,,Other,Female
+BA,None,For profit org,CS/tech,Female
+BA,None,,Medicine,Female
+BA,None,For profit org,Retail,Female
+BA,None,Govt/public agency,Social services,Male
+BA,None,For profit org,Biotech/pharm,Female
+BA,None,For profit org,Medicine,Female
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,Self employed,Social services,Female
+BA,None,For profit org,K12/adult education,Female
+BA,None,Non profit org,Social services,Female
+BA,None,For profit org,IT,Male
+BA,None,For profit org,Retail,Female
+BA,None,For profit org,K12/adult education,Female
+BA,None,For profit org,Business,Male
+BA,None,Other,Comm/marketing/PR,Female
+BA,None,Other,Other,Male
+BA,None,,,NaN
+BA,None,Non profit org,Medicine,Female
+BA,None,For profit org,IT,Female
+BA,None,For profit org,Social services,Female
+BA,None,Non profit org,Social services,Female
+BA,None,Non profit org,Financial services,Female
+BA,None,Non profit org,Other,Female
+BA,None,Self employed,Other,Female
+BA,None,Govt/public agency,Law/legal services,Male
+BA,None,Govt/public agency,Social services,Female
+BA,None,For profit org,CS/tech,Male
+BA,None,For profit org,CS/tech,Female
+BA,None,For profit org,Manufacturing,Female
+BA,None,For profit org,Social services,Female
+BA,None,For profit org,Retail,Female
+BA,None,Govt/public agency,Higher education,Female
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,Non profit org,Higher education,Female
+BA,None,Govt/public agency,Law/legal services,Female
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,Non profit org,Social services,Female
+BA,None,Govt/public agency,Politics/pubpolicy/advocacy,Female
+BA,None,For profit org,Retail,Female
+BA,None,Govt/public agency,Financial services,Female
+BA,None,Other,Social services,Female
+BA,None,Other,Other,Female
+BA,None,,,Female
+BA,None,For profit org,Business,Male
+BA,None,Non profit org,Social services,Male
+BA,None,,,Female
+BA,None,For profit org,Social services,Female
+BA,None,,,Female
+BA,None,Non profit org,Social services,Female
+BA,None,For profit org,IT,Female
+BA,None,For profit org,Retail,Female
+BA,None,Non profit org,Science,Male
+BA,None,Non profit org,Financial services,Male
+BA,None,Other,Politics/pubpolicy/advocacy,Female
+BA,None,Self employed,Comm/marketing/PR,Male
+BA,None,Govt/public agency,K12/adult education,Female
+BA,None,Non profit org,Social services,Male
+BA,None,Govt/public agency,Higher education,Female
+BA,MS,For profit org,Social services,Female
+BA,MS,,,Female
+BA,MS,Self employed,Business,Female
+BA,MA,Self employed,K12/adult education,Female
+BA,MA,Non profit org,Science,Female
+BA,MS,Govt/public agency,Medicine,Male
+BA,MS,For profit org,Manufacturing,Female
+BA,MS,For profit org,CS/tech,Female
+BA,MS,For profit org,IT,Female
+BA,MS,Govt/public agency,Medicine,Male
+BA,Other,,,Male
+BA,Other,Non profit org,Social services,Male
+BA,MS,Govt/public agency,Higher education,Female
+BA,MS,Non profit org,Social services,Male
+BA,MS,Govt/public agency,Social services,Female
+BA,MS,Non profit org,Social services,Male
+BA,Doctorate,Self employed,Military/defense,Female
+BA,MA,For profit org,Social services,Female
+BA,Doctorate,Non profit org,Social services,Female
+BA,MA,Govt/public agency,Social services,Female
+BA,Other,Other,Other,Female
+BA,MA,For profit org,Retail,Male
+BA,MS,For profit org,Financial services,Female
+BA,MS,For profit org,CS/tech,Female
+BA,Law,For profit org,Law/legal services,Male
+BA,Professional,Govt/public agency,K12/adult education,Female
+BA,Doctorate,,,Female
+BA,MS,For profit org,Manufacturing,Female
+BA,MA,Self employed,Social services,Male
+BA,MA,For profit org,K12/adult education,Female
+BA,MA,Govt/public agency,Higher education,Male
+BA,Professional,Other,Higher education,Female
+BA,MS,For profit org,Medicine,Male
+BA,Professional,For profit org,K12/adult education,Male
+BA,MA,For profit org,Medicine,Female
+BA,Doctorate,,Social services,Female
+BA,MA,Govt/public agency,Higher education,Male
+BA,Professional,For profit org,Social services,Male
+BA,MA,Non profit org,Social services,Female
+BA,MS,Non profit org,Social services,Female
+BA,MS,Govt/public agency,Social services,Female
+BA,Law,Other,Law/legal services,Male
+BA,MA,Govt/public agency,Social services,Male
+BA,MA,Other,K12/adult education,Female
+BA,Professional,For profit org,Manufacturing,Female
+BA,MA,Govt/public agency,Social services,Female
+BA,Other,For profit org,Financial services,Male
+BA,MA,Non profit org,Higher education,Male
+BA,Other,Govt/public agency,K12/adult education,Female
+BA,MA,For profit org,Politics/pubpolicy/advocacy,Male
+BA,Doctorate,Govt/public agency,Higher education,Male
+BA,Professional,Govt/public agency,Social services,Female
+BA,Doctorate,Govt/public agency,Science,Male
+BA,MA,Other,Other,Male
+BA,MA,,,Female
+BA,MA,Govt/public agency,Higher education,Female
+BA,Doctorate,Govt/public agency,Higher education,Male
+BA,Professional,Non profit org,Social services,Female
+BA,MA,Govt/public agency,Law/legal services,Male
+BA,MA,Self employed,Business,Male
+BA,MS,,,Female
+BA,MS,Self employed,Social services,Female
+BA,Professional,Non profit org,Higher education,Male
+BA,MS,Self employed,,Male
+BA,MS,Non profit org,Social services,Female
+BA,MA,Govt/public agency,Social services,Female
+BA,MS,Other,Business,Male
+BA,Other,Other,K12/adult education,Female
+BA,MA,Non profit org,K12/adult education,Female
+BA,MA,Non profit org,K12/adult education,Male
+BA,Other,Non profit org,Social services,Female
+BA,MA,For profit org,Higher education,Female
+BA,Professional,Self employed,Business,Female
+BA,Professional,Non profit org,K12/adult education,Female
+BA,Other,For profit org,Social services,Male
+BA,Professional,,,Female
+BA,MS,For profit org,CS/tech,Female
+BA,MA,Self employed,Social services,Female
+BA,Other,Govt/public agency,Medicine,Male
+BA,MA,Non profit org,K12/adult education,Female
+BA,MA,,,Male
+BA,MA,Self employed,Social services,Female
+BA,MA,Govt/public agency,K12/adult education,Male
+BA,Professional,Self employed,Comm/marketing/PR,Male
+BA,Professional,Other,Higher education,Female
+BA,MA,Govt/public agency,Social services,Female
+BA,MA,For profit org,CS/tech,Male
+BA,Other,Govt/public agency,K12/adult education,NaN
+BA,MS,For profit org,IT,Female
+BA,Law,,,Female
+BA,Other,Govt/public agency,Higher education,Female
+BA,MS,Govt/public agency,K12/adult education,Female
+BA,MA,Other,K12/adult education,Female
+BA,MA,Non profit org,Social services,Female
+BA,MA,Non profit org,Social services,Male
+BA,MA,Govt/public agency,Law/legal services,Female
+BA,MS,Non profit org,Medicine,Female
+BA,Other,,,Female
+BA,Professional,Govt/public agency,Social services,Male
+BA,Professional,For profit org,Social services,Male
+BA,MA,Govt/public agency,K12/adult education,Female
+BA,MA,Non profit org,K12/adult education,Female
+BA,MA,For profit org,IT,Female
+BA,Doctorate,Govt/public agency,Social services,Female
+BA,MA,For profit org,IT,Female
+BA,MA,Govt/public agency,Law/legal services,Female
+BA,Professional,For profit org,Law/legal services,Female
+BA,Professional,For profit org,Manufacturing,Female
+BA,Other,,,Male
+BA,Law,For profit org,Law/legal services,Female
+BA,MA,For profit org,Manufacturing,Female
+BA,MS,,,Female
+BA,MS,Non profit org,Medicine,Female
+BA,MS,Other,Business,Male
+BA,Professional,For profit org,Financial services,Male
+BA,Doctorate,Govt/public agency,Science,Male
+BA,MA,Non profit org,Social services,Female
+BA,MA,Govt/public agency,Higher education,Female
+BA,MA,Other,Higher education,Male
+BA,MS,Non profit org,Higher education,Female
+BA,MA,Govt/public agency,Medicine,Male
+BA,MS,Govt/public agency,Social services,Female
+BA,MS,,,Female
+BA,MA,Non profit org,Politics/pubpolicy/advocacy,Female
+BA,MA,For profit org,Social services,Female
+BA,MS,Govt/public agency,Higher education,Male
+BS,None,Non profit org,Other,Female
+BS,None,For profit org,CS/tech,Female
+BS,None,For profit org,Business,Female
+BS,None,For profit org,Retail,Female
+BS,None,Non profit org,K12/adult education,Male
+BS,None,Govt/public agency,Higher education,Female
+BS,None,Govt/public agency,Social services,Female
+BS,MA,For profit org,IT,Female
+BS,MS,,,Female
+BS,Law,Govt/public agency,Law/legal services,Female
+BS,Doctorate,Non profit org,Social services,Female
+BS,Doctorate,Govt/public agency,Medicine,Male
+BS,MA,Self employed,Science,Female
+BS,MS,For profit org,Biotech/pharm,Female
+BS,MS,For profit org,CS/tech,Female
+BS,MS,Self employed,Social services,Male
+BS,Other,Govt/public agency,Higher education,Female
+BS,Medical,Self employed,Medicine,Male
+BS,MA,,,Female
+BS,Doctorate,Non profit org,Hospitality/tourism/travel,Female
+BS,MS,,,Female
+BS,MS,Govt/public agency,Science,Female
+BS,MA,Other,Higher education,Female

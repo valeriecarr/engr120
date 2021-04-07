@@ -1,0 +1,467 @@
+San José State University
+Department of General Engineering
+ENGR 120-01, Programming Concepts for Behavioral and Social Science Applications
+Fall 2020
+
+
+basic course information
+
+
+Instructor
+	Valerie Carr, PhD
+	Office location
+	Working from home
+	Telephone
+	408-924-5630 (calls are forwarded to my home phone)
+	Email
+	valerie.carr@sjsu.edu   
+	Office hours
+	* Tues/Thurs 1:30-2:30pm
+* Zoom link here
+* If you can’t make my usual office hours, book an appointment here
+	Class days/time
+	* Tu/Th, 12:00-1:15pm
+* Zoom link here (note: you must login with your SJSU account)
+* Meeting ID: 928 9726 1326, Pswd: 2l830a
+* You can find full Zoom details (including how to join via phone) here
+	Prerequisites
+	One of the following: STAT 95, MATH 30, or MATH 71
+	
+
+ISA
+	Manasi Gupta
+	Email
+	manasi.gupta@sjsu.edu 
+	Office hours
+	* Mon 11:00am-12:00pm
+* Zoom link here
+	
+
+
+
+acknowledging the pandemic
+
+
+I would like to start by acknowledging that this pandemic has been and will continue to be challenging for many months to come – challenging emotionally, physically, and financially. I am extremely sympathetic to your situation, and I pledge to work with you to understand the unique challenges you’re facing, to connect you to relevant resources, and to find a path forward so that you can successfully engage with this course. I know it can be hard to speak up when you’re struggling, but the sooner you reach out and let me know about any obstacles you’re facing, the sooner I can help develop flexible solutions. 
+
+
+Finally, although this course is offered entirely online (see Course Format), I encourage you to read SJSU’s health and safety protocols at https://www.sjsu.edu/healthadvisories/health-safety-protocols/index.php. These protocols must be followed if you need to come to campus for any reason.
+course description 
+
+
+In this course, we will cover the application of Python programming to the fields of behavioral and social sciences, as well as the basic building blocks of computers and the web. This course also covers how programming is used in various careers. As such, this course aims to provide you with a strong foundational knowledge of programming in Python and how this knowledge can be applied to solving real-world social science problems.
+
+
+course format
+
+
+This is a synchronous online course, meaning that we will meet virtually via Zoom each week during our scheduled class days/times. In effort to keep this syllabus relatively short, I have created a separate Google doc with detailed information regarding the online nature of course. To access this material, please visit ENGR 120: Online Learning Resources. You will find information regarding:
+
+
+* How to join via Zoom (and how to address technical/internet difficulties)
+* Virtual classroom protocol
+* Submitting assignments and taking quizzes
+* Requesting extensions
+* Office hours and appointments
+* Zoom guide and Canvas guide
+* Resources during this challenging time (financial, health, mental health)
+* Frequently asked questions
+
+
+Each class session will include a mix of (1) lecture that introduces programming concepts and examples, and (2) hands-on laboratory work performed with a partner/group via Zoom breakout rooms. During lectures, I will cover programming concepts and provide demonstrations to facilitate understanding of these concepts. Students will then participate in laboratory exercises to gain hands-on experience of concepts covered in lecture. You will need a computer for laboratory exercises, but owning a computer is not a requirement for taking this course – please see below for borrowing/renting options. 
+
+
+Given that the format and content of this course is quite different than that of typical social science courses, it is especially important that you stay on top of your homework and regularly practice your new skills. Unlike many of your other courses, this is not a course in which you can cram at the last minute! Should you miss a class, it is extremely important to find out what you missed, preferably by contacting one of your fellow students, and to practice lab activities on your own. Being proactive about seeking help is similarly important in achieving a successful outcome. Please ask questions when you don’t understand information in lecture, laboratory activities, or readings—asking questions and offering ideas is welcomed and encouraged!
+
+
+Finally, please note that I will record the lecture portion of each class session and post the recordings on Canvas. I am unable to record the lab activities given that these will take place via the breakout rooms feature on Zoom, which does not allow recordings. Please note that these recordings are only for your private, educational use. These recordings are protected by copyright, and thus you will not be permitted to share any class recordings with someone who isn’t enrolled in the class or without my permission. If you would prefer to remain anonymous during these recordings, please speak with me about possible accommodations.
+
+
+
+
+Technology requirements
+
+
+To use Zoom and Canvas, you will need access to the internet and either a computer or mobile device. Additionally, in order to engage in lab activities and homework assignments, you will need a computer and access to a web-based tool called Google Colab (https://colab.research.google.com/), which is a free and publicly available tool that requires no downloading or installation. 
+
+
+If you do not have access to these resources, please reach out to me and I can point you to university resources. An excellent place to start is the Technology page on SJSU’s Learn Anywhere website at: https://www.sjsu.edu/learnanywhere/equipment/index.php. It includes resources relating to low-cost or free Wi-Fi, as well as computer loans from the university.
+
+
+canvas
+
+
+Course materials such as the syllabus, lab activities, quizzes, announcements, grades, etc. can be found on the Canvas learning management system course website at http://sjsu.instructure.com. 
+
+
+You are responsible for regularly checking Canvas to learn of any updates. In this virtual classroom setting, it is more important than ever to ensure that you adjust your Canvas notification settings so that you receive all course announcements as soon as they are posted.
+
+
+ 
+course learning outcomes (clo)
+
+
+Upon successful completion of this course, students will be able to: 
+
+
+Conceptual goals
+* CLO1: Demonstrate the ability to break down a problem into constituent sub-problems
+* CLO2: Develop and implement solutions to problems in Python
+* CLO3: Demonstrate knowledge of basic algorithms in solving problems
+* CLO4: Use library functions in developing solutions
+* CLO5: Write clear and concise documentation of problems and their solutions
+* CLO6: Demonstrate knowledge of major building blocks of computers and the web
+* Conceptual goals will be assessed via homework and quizzes
+
+
+Application goals
+* CLO7: Apply programming concepts and skills to solve student-selected problems
+* CLO8: Articulate the relevance of programming to students’ field of study and careers
+* Application goals will be assessed with homework, quizzes, and the final project
+
+
+
+
+required texts / readings
+
+
+Textbook
+We will use a free online textbook in this course, which can be found at https://automatetheboringstuff.com/. Note that you can access the entire contents of the book via the web, and that it is not necessary to purchase a printed version or to purchase a PDF or ePub version. Via the link above, simply scroll down the page until you see the Table of Contents, and go from there! 
+
+
+Sweigard, A. (2019). Automate the Boring Stuff with Python: Practical Programming for Total Beginners (2nd edition). San Francisco: No Starch Press. ISBN-13: 978-1593279929
+
+
+Other technology requirements
+As noted above, to perform lab activities and homework assignments, we will be using a web-based tool called Google Colab. We will discuss details of how to access and use this tool during the first two days of class.
+
+
+
+
+course requirements and assignments
+
+
+Assignments in this class will be grouped into the following categories, each accounting for one third of your grade. Broadly speaking, in this course I have adopted a grading scheme that puts more emphasis on consistent learning and effort, and less emphasis on accuracy. Programming requires quite a bit of trial and error, particularly when starting out! 
+
+
+Category
+	Points
+	Homework
+	120
+	Quizzes
+	120
+	Final project
+	120
+	Total
+	360
+	
+
+Assignment categories
+See details below regarding each type of assignment, and please also see “Grading Information” and “Schedule.”
+
+
+Homework
+You will be asked to complete 13 homework assignments, each worth 10 points. I will drop your lowest score, such that you can earn a max of 120 points for the remaining 12 homework assignments. Homework will be graded according to effort as follows: 
+
+
+* Complete, 10 pts
+   * You attempted all exercises with a good faith effort (i.e., you followed the exercise prompts and didn’t simply write a few lines of code and give up)
+* Partially complete, x pts
+   * You attempted some, but not all, exercises with a good faith effort
+   * Your score will be based proportionally on the number of exercises you attempted with a good faith effort. So, for example, if you attempted 4 out of 5 exercises (80%), you would receive 8 out of 10 pts.
+* Incomplete, 0 pts
+   * You did not turn in the assignment, or you did not put in a good faith effort for any of the exercises
+
+
+
+
+
+
+Quizzes
+You will be asked to take 7 online quizzes via Canvas, each worth 20 points. I will drop your lowest score, such that you can earn a max of 120 points for the remaining 6 quizzes. 
+
+
+Quizzes will be open notes and open book. They will be time-limited (20 min), such that you still need to sufficiently study and prepare -- you will not have enough time to look up every single answer. (Note: If you have an extended time accommodation through AEC, I will adjust your time accordingly). 
+
+
+Quizzes will be graded in the standard manner according to accuracy. However, you will be able to earn partial credit back by reviewing the correct answers and completing a quiz wrapper, i.e., by putting in additional effort. 
+Quiz wrappers are designed to encourage reflection on quiz preparation (duration of studying, type of study activities, etc.), factors contributing to errors (e.g., didn’t study enough, felt rushed, didn’t understand the question, etc.), and why the correct answers are indeed correct. By submitting a quiz wrapper, you will receive half of your missed points back. For example, if you received 16/20 pts (80%) your new score would be 18/20 pts (90%).
+
+
+Final project
+The culminating assignment for this course is a final project in which you will apply Python to a social science topic of your choosing. I prefer that you work in groups of 2-3 students; however, given the challenges of the current pandemic, I will allow students to work independently who have a compelling reason to do so. You will be required to turn in your code and to give a slide presentation.
+
+
+On Canvas, I will post a detailed list of basic expectations for the final project. If you meet these criteria, you will earn a B on the final project. Criteria will include things like a minimum number of lines of code, number of skills that must be demonstrated, etc. However, there are several actions you can take that will increase or decrease your grade. These will be spelled out in detail later in the semester, but in brief:
+
+
+* If you exceed expectations by going above and beyond the stated criteria, your grade will increase. For example, you can showcase more skills than required, demonstrate a skill not taught in class, write code that is very concise, etc.
+* If you do not meet the basic expectations, your grade will decrease. For example, if you do not write a sufficient amount of code or demonstrate a sufficient number of skills, your grade will decrease. 
+
+
+Submitting assignments
+All homework assignments and quizzes are due by the beginning of lecture (i.e., at noon) on the specified due date. All assignments will be submitted via Canvas. It is your responsibility to ensure that submitted files are properly uploaded and complete by the due date. As such, blank/incomplete/corrupt files will not be accepted, similar to how a blank piece of paper would never be accepted in class. I suggest beginning the submission process at least 30 mins in advance of each deadline to ensure sufficient time to correctly upload your files and address any Canvas-related difficulties.
+
+
+If you experience an internet outage while taking a quiz, you can contact me via phone (during business hours) or via email once you’re able to regain internet connectivity. Either way, please take a screenshot or photo of your quiz so that I can see your progress and understand the problem that you faced. Note that I may be unable to respond immediately depending on time of day (e.g., I may be teaching another class or in a meeting). However, an email with a screenshot will provide a helpful record of the situation.
+
+
+Late assignments and requesting extensions
+No late homework assignments or quizzes will be accepted unless a request for extension has been approved. If you encounter an unexpected emergency outside of your control (e.g., COVID infection, eviction from your home, daycare closure, etc.) and you would like to request extension on an assignment, please fill out this Google Form at https://forms.gle/YrYMwvNJ8CrvbJQY8 in advance of the assignment deadline. Although filling out this form is not a guarantee that your request will be approved, I take all requests seriously and will work with you to find appropriate resources and a path forward for completing your coursework. 
+
+
+Please note that my flexibility with respect to deadlines relates to situations beyond your control, and that this flexibility does not apply to vacation travel, conflicts with your work schedule, or other foreseeable circumstances that are within your control. I expect you to act ethically and honorably, and not to take advantage of this crisis situation.
+Expected effort
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+
+Please review the following sources and policies, as well:
+* University Syllabus Policy S16-9 at http://www.sjsu.edu/senate/docs/S16-9.pdf
+* Office of Graduate and Undergraduate Programs’ Syllabus Information web page at http://www.sjsu.edu/gup/syllabusinfo/
+
+
+
+
+grading information
+
+
+As described above, grades will be based on homework (120 pts), quizzes (120 pts), and a final project (120 pts). Letter grades will be assigned as follows:
+
+
+A plus: 350 - 360 pts 
+(> 97%)
+	A: 335 - 349 pts 
+(93 - 97%)
+	A minus: 324 - 334 
+(90 - 93%)
+	B plus: 314 - 323
+(87 - 90%)
+	B: 299 - 313
+(83 - 87%)
+	B minus: 288 - 298 
+(80 - 83%)
+	C plus: 278 - 287
+(77 - 80%)
+	C: 263 - 277
+(73 - 77%)
+	C minus: 252 - 262
+(70 - 73%)
+	D plus: 242 - 251
+(67 - 70%)
+	D: 227 - 241
+(63 - 67%)
+	D minus: 216 - 226
+(60 - 63%)
+	F: 0 - 215
+(< 60%)
+	
+
+	
+
+	
+
+Extra credit
+You can earn extra credit by completing up to two of the following activities, each of which will add 5 pts to your grade (and which would boost your overall grade by 1.4%).
+
+
+* Conduct an informational interview with someone working in tech in a field that interests you, or with in graduate school in a field that interests you. Write a 2-3 page summary of your interview.
+* On LinkedIn Learning, watch a relevant lecture, complete any embedded exercises/quizzes, submit your completion certificate, and briefly provide your overall thoughts on the lecture. I will provide a “suggested viewing” list on Canvas, but you are welcome to select others after checking with me first.
+
+
+Viewing grades
+Grades will be posted on Canvas in a timely manner. Note that “All students have the right, within a reasonable time, to know their academic scores, to review their grade-dependent work, and to be provided with explanations for the determination of their course grades.”  See University Policy F13-1 at http://www.sjsu.edu/senate/docs/F13-1.pdf for more details.
+
+
+Attendance and grading
+As per the University Attendance and Participation Policy F15-12 at http://www.sjsu.edu/senate/docs/F15-12.pdf, “Students should attend all meetings of their classes, not only because they are responsible for material discussed therein, but because active participation is frequently essential to insure maximum benefit for all members of the class. Attendance per se shall not be used as a criterion for grading.” Thus, although attendance will not be used in determining your grade, regularly participating in class and lab activities is essential for success in the course.
+
+
+Academic integrity
+Cheating, plagiarism, or other forms of academic dishonesty that are intended to gain unfair academic advantage will not be tolerated. This includes obvious forms of academic dishonesty such as copying someone else’s homework assignment and cheating on quizzes. It also applies to plagiarizing someone else’s code found on the internet (either in your homework on your final project). 
+
+
+Additionally, academic dishonesty also includes helping other students gain unfair academic advantage, such as posting or distributing homework and quiz answers. Any students who share such materials (e.g., via sites like Course Hero, Uloop, etc.) or who otherwise distribute such materials will be referred to the Student Conduct and Ethical Development office. 
+
+
+If evidence of academic misconduct is found, you will receive a zero on the assignment(s) in question, and I will file a report with the Office of Student Conduct & Ethical Development. See the office’s website for more information at http://www.sjsu.edu/studentconduct/policies/. 
+
+
+virtual classroom protocol
+Once again, in an effort to keep this syllabus short, I ask you to please visit the Google doc ENGR 120: Online Learning Resources. Specifically, please see the section entitled Virtual Classroom Protocol for details on Zoom best practices, suggestions for microphone and camera use, tips for how to remain focused and avoid multitasking, etc. Here on the syllabus, I will simply note that students are expected to maintain a level of professional and courteous behavior at all times when learning online, just as you would when learning face-to-face. 
+
+
+
+
+diversity, equity, and inclusion
+
+
+I aim to provide an inclusive learning environment in which diverse backgrounds and perspectives are recognized, respected, and seen as a source of strength. It is my intent to present materials and activities that are respectful of diversity with respect to gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions on how I can make this course more equitable and inclusive to all forms of diversity are encouraged and appreciated. 
+
+
+In accordance with SJSU policies, the Student Code of Conduct, and applicable state and federal laws, discrimination based on gender, gender identity, gender expression, race, nationality, ethnicity, religion, sexual orientation, or disability is prohibited in any form. All such policies and regulations apply to the online environment, just as in face-to-face instruction. I encourage students who have a disability or other condition necessitating accommodation to discuss your needs with me as soon as possible.
+
+
+
+
+student resources
+
+
+Now more than ever, I encourage you to take advantage of the following resources. You can find a more exhaustive list in my Online Resources doc.
+
+
+* The SJSU Learn Anywhere site (https://www.sjsu.edu/learnanywhere/) has a number of helpful resources for learning in an online environment, including help with Zoom and Canvas, finding free or affordable internet and computer resources, FAQs, workshops, and more.
+* The Academic Counseling Center for Excellence in Social Sciences (ACCESS) Success Center (http://www.sjsu.edu/access/) provides general education advising for undergraduate students majoring or intending to major in any of the departments in The College of Social Sciences, including Psychology.
+* SJSU Peer Connections (https://peerconnections.sjsu.edu/) offers free mentoring, tutoring, and supplemental instruction services for students at SJSU. Peer Educators are students just like you; they understand the triumphs and challenges of being a student at SJSU. 
+* The SJSU Writing Center (http://www.sjsu.edu/writingcenter/) offers a variety of resources to help students become better writers. All of their services are free for SJSU students. 
+* SJSU Counseling and Psychological Services (http://www.sjsu.edu/counseling/) invites all students to contact them for any support needed. To get connected, call (408) 924-5910 or email counseling.services@sjsu.edu.
+* SJSU Cares (https://www.sjsu.edu/sjsucares/) provides resources and services for students facing a financial crisis, including trouble paying for food or housing, trouble paying bills (including medical), and housing and food insecurity.
+
+
+university policies
+Per University Policy S16-9, university-wide policy information relevant to all courses, such as academic integrity, accommodations, etc. will be available on Office of Graduate and Undergraduate Programs’ Syllabus Information web page at http://www.sjsu.edu/gup/syllabusinfo/.
+
+
+________________
+
+
+ENGR 120-01, Programming Concepts for Behavioral & Social Science Applications, Fall 2020
+course schedule
+Note: The schedule is subject to modification (with fair warning) as the instructor deems necessary.
+
+
+Date
+	Topic
+	Reading
+	Assignment due
+	Aug 20
+	Welcome and intro
+	 
+	 
+	Aug 25
+	Google Colab
+	Ch 0
+	 
+	Aug 27
+	Data types
+	Ch 1, Ch 2
+	 
+	Sep 1
+	Strings I
+	Ch 1
+	Hmwk 1
+	Sep 3
+	Lists and tuples I
+	Ch 4
+	Quiz 1
+	Sep 8
+	Lists and tuples II
+	Ch 4
+	Hmwk 2
+	Sep 10
+	Intro to programs
+	Ch 2
+	 
+	Sep 15
+	Conditionals I
+	Ch 2
+	Hmwk 3
+	Sep 17
+	Iteration I
+	Ch 2, Ch 4
+	Quiz 2
+	Sep 22
+	Dictionaries I
+	Ch 5
+	Hmwk 4
+	Sep 24
+	Dictionaries II
+	Ch 5
+	 
+	Sept 29
+	Functions I
+	Ch 3 
+	Hmwk 5
+	Oct 1
+	Functions II
+	Ch 3 
+	Quiz 3
+	Oct 6
+	Functions III
+	Ch 3 
+	Hmwk 6
+	Oct 8
+	Strings II
+	Ch 6
+	 
+	Oct 13
+	Strings III
+	Ch 6
+	Hmwk 7
+	Oct 15
+	Formatting output
+	Ch 17
+	Quiz 4
+	Oct 20
+	File input with Colab
+	Ch 9
+	Hmwk 8
+	Oct 22
+	Pandas I
+	 
+	 
+	Oct 27
+	Pandas II
+	 
+	Hmwk 9
+	Oct 29
+	Pandas III + stats
+	 
+	Quiz 5
+	Nov 3
+	Data viz + final project overview 
+	 
+	Hmwk 10
+	Nov 5
+	Conditionals II
+	 
+	 
+	Nov 10
+	Career panel
+	Ch 2, Ch 8
+	Hmwk 11 (I&II)
+	Nov 12
+	Iteration II
+	Ch 2
+	Quiz 6
+	Nov 17
+	Iteration III
+	Ch 2
+	Hmwk 12 (I&II)
+	Nov 19
+	Web scraping I
+	Ch 12
+	 
+	Nov 24
+	Web scraping II
+	Ch 12
+	Hmwk 13 (I&II)
+	Nov 26
+	No class, Thanksgiving
+	 
+	 
+	Dec 1
+	Regular expressions
+	Ch 7
+	 
+	Dec 3
+	Final project group work
+	 
+	Quiz 7
+	Dec 10
+	Final project and presentations, 
+9:45am - 12pm
+	 
+	 
+	
+
+ENGR 120-01, Programming Concepts, Fall 2020                 Page  of
