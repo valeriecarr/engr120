@@ -1,0 +1,201 @@
+﻿city,state,bedrooms,median_rent
+San Francisco, CA,1,2650
+New York, NY,1,2500
+San Jose, CA,1,2100
+Boston, MA,1,2090
+Washington, DC,1,2060
+Oakland, CA,1,1930
+Los Angeles, CA,1,1910
+San Diego, CA,1,1800
+Santa Ana, CA,1,1700
+Anaheim, CA,1,1690
+Fort Lauderdale, FL,1,1630
+Long Beach, CA,1,1600
+Miami, FL,1,1600
+Scottsdale, AZ,1,1550
+Newark, NJ,1,1540
+Seattle, WA,1,1500
+Atlanta, GA,1,1480
+Honolulu, HI,1,1460
+Chicago, IL,1,1450
+New Orleans, LA,1,1450
+Providence, RI,1,1450
+Sacramento, CA,1,1420
+Denver, CO,1,1410
+Philadelphia, PA,1,1400
+Gilbert, AZ,1,1360
+Portland, OR,1,1350
+Nashville, TN,1,1310
+Richmond, VA,1,1300
+Durham, NC,1,1300
+Chandler, AZ,1,1280
+Dallas, TX,1,1280
+St Petersburg, FL,1,1280
+Orlando, FL,1,1270
+Charlotte, NC,1,1270
+Minneapolis, MN,1,1250
+Henderson, NV,1,1240
+Boise, ID,1,1240
+Baltimore, MD,1,1240
+Milwaukee, WI,1,1220
+Plano, TX,1,1210
+Austin, TX,1,1200
+Virginia Beach, VA,1,1200
+Tampa, FL,1,1190
+Fresno, CA,1,1180
+Chesapeake, VA,1,1150
+Irving, TX,1,1130
+Madison, WI,1,1130
+Cleveland, OH,1,1130
+Reno, NV,1,1120
+Colorado Springs, CO,1,1110
+Aurora, CO,1,1110
+Salt Lake City, UT,1,1110
+Houston, TX,1,1100
+Pittsburgh, PA,1,1100
+Mesa, AZ,1,1090
+Phoenix, AZ,1,1070
+Fort Worth, TX,1,1060
+Rochester, NY,1,1050
+Raleigh, NC,1,1040
+Chattanooga, TN,1,1040
+Buffalo, NY,1,1020
+Las Vegas, NV,1,1010
+Anchorage, AK,1,1000
+Detroit, MI,1,1000
+Kansas City, MO,1,990
+Jacksonville, FL,1,990
+St Louis, MO,1,990
+Norfolk, VA,1,980
+Cincinnati, OH,1,970
+Spokane, WA,1,970
+San Antonio, TX,1,960
+Glendale, AZ,1,950
+Indianapolis, IN,1,940
+Arlington, TX,1,920
+Bakersfield, CA,1,910
+Columbus, OH,1,900
+Louisville, KY,1,870
+Des Moines, IA,1,870
+Memphis, TN,1,870
+Corpus Christi, TX,1,850
+Knoxville, TN,1,840
+Syracuse, NY,1,830
+Baton Rouge, LA,1,820
+Augusta, GA,1,820
+Omaha, NE,1,820
+Lincoln, NE,1,820
+Winston Salem, NC,1,810
+Greensboro, NC,1,800
+Tallahassee, FL,1,800
+Albuquerque, NM,1,750
+Lexington, KY,1,740
+Oklahoma City, OK,1,740
+Tucson, AZ,1,730
+Laredo, TX,1,710
+El Paso, TX,1,700
+Shreveport, LA,1,670
+Lubbock, TX,1,650
+Tulsa, OK,1,620
+Wichita, KS,1,600
+Akron, OH,1,600
+San Francisco, CA,2,3500
+New York, NY,2,2680
+San Jose, CA,2,2650
+Boston, MA,2,2600
+Washington, DC,2,2790
+Oakland, CA,2,2480
+Los Angeles, CA,2,2650
+San Diego, CA,2,2400
+Santa Ana, CA,2,2380
+Anaheim, CA,2,2030
+Fort Lauderdale, FL,2,2100
+Long Beach, CA,2,2010
+Miami, FL,2,2070
+Scottsdale, AZ,2,2170
+Newark, NJ,2,1730
+Seattle, WA,2,2000
+Atlanta, GA,2,1900
+Honolulu, HI,2,1900
+Chicago, IL,2,1800
+New Orleans, LA,2,1700
+Providence, RI,2,1790
+Sacramento, CA,2,1770
+Denver, CO,2,1960
+Philadelphia, PA,2,1750
+Gilbert, AZ,2,1640
+Portland, OR,2,1650
+Nashville, TN,2,1510
+Richmond, VA,2,1430
+Durham, NC,2,1400
+Chandler, AZ,2,1560
+Dallas, TX,2,1730
+St Petersburg, FL,2,1630
+Orlando, FL,2,1400
+Charlotte, NC,2,1480
+Minneapolis, MN,2,1750
+Henderson, NV,2,1390
+Boise, ID,2,1350
+Baltimore, MD,2,1400
+Milwaukee, WI,2,1270
+Plano, TX,2,1620
+Austin, TX,2,1550
+Virginia Beach, VA,2,1310
+Tampa, FL,2,1410
+Fresno, CA,2,1370
+Chesapeake, VA,2,1250
+Irving, TX,2,1450
+Madison, WI,2,1430
+Cleveland, OH,2,1210
+Reno, NV,2,1490
+Colorado Springs, CO,2,1330
+Aurora, CO,2,1540
+Salt Lake City, UT,2,1340
+Houston, TX,2,1400
+Pittsburgh, PA,2,1340
+Mesa, AZ,2,1290
+Phoenix, AZ,2,1300
+Fort Worth, TX,2,1400
+Rochester, NY,2,1290
+Raleigh, NC,2,1250
+Chattanooga, TN,2,1130
+Buffalo, NY,2,1100
+Las Vegas, NV,2,1240
+Anchorage, AK,2,1130
+Detroit, MI,2,1190
+Kansas City, MO,2,1150
+Jacksonville, FL,2,1170
+St Louis, MO,2,1270
+Norfolk, VA,2,1090
+Cincinnati, OH,2,1120
+Spokane, WA,2,1150
+San Antonio, TX,2,1200
+Glendale, AZ,2,1180
+Indianapolis, IN,2,1000
+Arlington, TX,2,1200
+Bakersfield, CA,2,1120
+Columbus, OH,2,1100
+Louisville, KY,2,1010
+Des Moines, IA,2,920
+Memphis, TN,2,920
+Corpus Christi, TX,2,1080
+Knoxville, TN,2,1040
+Syracuse, NY,2,1000
+Baton Rouge, LA,2,930
+Augusta, GA,2,900
+Omaha, NE,2,990
+Lincoln, NE,2,950
+Winston Salem, NC,2,890
+Greensboro, NC,2,900
+Tallahassee, FL,2,930
+Albuquerque, NM,2,950
+Lexington, KY,2,960
+Oklahoma City, OK,2,880
+Tucson, AZ,2,990
+Laredo, TX,2,950
+El Paso, TX,2,870
+Shreveport, LA,2,750
+Lubbock, TX,2,850
+Tulsa, OK,2,830
+Wichita, KS,2,740
+Akron, OH,2,740
