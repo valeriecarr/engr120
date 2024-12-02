@@ -10,7 +10,7 @@ Cat,0,Rock,Mexican,No,4,Alone,"Yes, infrequently","Yes, infrequently","Yes, regu
 Dog,2,Pop,Sushi,Yes,2,Alone,"Yes, regularly","Yes, infrequently","Yes, infrequently",5,Night owl,7,3,4,2,4,Introvert,0,Instagram,60,50,Business,43,Man,Democratic,2,1
 Dog,1,Other,Sushi,Yes,3,With others,"Yes, regularly","Yes, infrequently","Yes, infrequently",45,Night owl,4,4,5,4,4,Ambivert,0,Instagram,60,300,Health sciences,32,Woman,Democratic,1,3
 Dog,1,Hip hop,Pizza,No,3,Alone,"Yes, regularly",No,"Yes, infrequently",60,Night owl,9,1,2,4,3,Introvert,5,Not applicable,0,0,Health sciences,34,Woman,Democratic,1,1
-Dog,0,Other,Vietnamese,No,4,Alone,"Yes, regularly","Yes, infrequently","Yes, regularly",20,Early bird,9,1,3,4,3,Introvert,2,Instagram,20,400,Hospitality ,20,Prefer not to say,Democratic,2,1
+Dog,0,Other,Vietnamese,No,4,Alone,"Yes, regularly","Yes, infrequently","Yes, regularly",20,Early bird,9,1,3,4,3,Introvert,2,Instagram,20,400,Business,20,Prefer not to say,Democratic,2,1
 Cat,3,Rock,Pizza,Yes,3,Alone,"Yes, infrequently","Yes, infrequently",No,0,Night owl,9,6,5,4,5,Introvert,5,Snapchat,270,290,Humanities and arts,19,Woman,Democratic,1,1
 Dog,1,Country,Mexican,No,2,Alone,"Yes, regularly",No,"Yes, infrequently",30,Night owl,6,1,2,3,3,Introvert,3,Instagram,15,100,Business,34,Woman,Independent,1,1
 Dog,0,Other,Indian,No,2,Alone,"Yes, infrequently","Yes, infrequently","Yes, infrequently",35,Night owl,7,2,3,2,4,Ambivert,4,Instagram,20,113,Undecided,30,Identity not listed,Afflilation not listed,4,4
@@ -23,7 +23,7 @@ Dog,0,Other,Mexican,No,5,Alone,"Yes, regularly","Yes, infrequently","Yes, infreq
 Dog,3,Hip hop,Mexican,No,3,Alone,"Yes, infrequently",No,"Yes, infrequently",20,Night owl,7,5,2,2,3,Introvert,5,Not applicable,60,0,Health sciences,29,Man,Prefer not to say,1,1
 Dog,0,Classical,Sushi,No,8,Alone,"Yes, regularly",No,"Yes, infrequently",25,Early bird,6,0,1,5,1,Extrovert,5,Facebook,15,50,Education,36,Woman,Prefer not to say,2,4
 Cat,2,Hip hop,Vietnamese,Yes,3,Alone,"Yes, regularly",No,"Yes, regularly",60,Night owl,6,1,4,3,3,Introvert,6,Instagram,40,200,Engineering,20,Man,Republican,4,4
-Dog,0,Pop,Sushi,No,7,With others,"Yes, regularly",No,"Yes, regularly",30,Early bird,8,2,4,4,3,Extrovert,8,Snapchat,90,200,Nursing,18,Woman,Democratic,2,2
+Dog,0,Pop,Sushi,No,7,With others,"Yes, regularly",No,"Yes, regularly",30,Early bird,8,2,4,4,3,Extrovert,8,Snapchat,90,200,Health sciences,18,Woman,Democratic,2,2
 Dog,2,Rock,Sushi,Yes,4,With others,"Yes, infrequently",No,"Yes, regularly",90,Both,8,2,2,5,1,Ambivert,4,Instagram,30,500,Engineering,22,Woman,Democratic,2,3
 Cat,2,Other,Sushi,Yes,1,Alone,"Yes, regularly",No,"Yes, regularly",120,Early bird,7,0,1,3,3,Ambivert,0,Instagram,0,1000,Sciences,20,Woman,Prefer not to say,2,1
 Dog,1,Pop,Sushi,No,3,Alone,"Yes, infrequently","Yes, infrequently","Yes, infrequently",0,Night owl,8,2,3,4,4,Introvert,5,TikTok,180,24,Health sciences,22,Woman,Democratic,2,1
@@ -33,7 +33,7 @@ Cat,1,Rock,Sushi,Yes,2,Alone,"Yes, regularly",No,No,0,Night owl,7,4,5,4,3,Introv
 Dog,2,Pop,Sushi,Yes,2,With others,"Yes, regularly",No,"Yes, infrequently",30,Night owl,8,1,5,3,5,Ambivert,4,TikTok,180,64,Health sciences,20,Woman,Independent,2,1
 Dog,1,Hip hop,Mexican,Yes,2,Alone,"Yes, infrequently",No,"Yes, infrequently",45,Night owl,7,2,3,3,5,Ambivert,3,Not applicable,0,0,Business,18,Man,Independent,1,1
 Cat,0,Other,Soul food,Yes,1,Alone,No,No,No,0,Night owl,5,0,5,2,5,Ambivert,0,X / Twitter,240,241,Humanities and arts,17,Man,Prefer not to say,1,1
-Dog,3,Rock,Sushi,Yes,2,Alone,No,No,No,0,Night owl,8,0,2,2,5,Ambivert,6,Instagram,240,328,Music,19,Prefer not to say,Prefer not to say,4,2
+Dog,3,Rock,Sushi,Yes,2,Alone,No,No,No,0,Night owl,8,0,2,2,5,Ambivert,6,Instagram,240,328,Humanities and arts,19,Prefer not to say,Prefer not to say,4,2
 Dog,2,Other,Sushi,Yes,2,With others,"Yes, regularly","Yes, infrequently","Yes, infrequently",30,Night owl,6,6,4,2,5,Introvert,2,Quora,60,127,Education,36,Man,Prefer not to say,2,2
 Dog,1,Pop,Vietnamese,Yes,3,Alone,"Yes, regularly","Yes, infrequently","Yes, infrequently",0,Early bird,7,1,4,3,2,Introvert,50,TikTok,120,446,Business,20,Man,Independent,2,1
 Dog,0,Other,Vietnamese,No,4,Alone,"Yes, regularly",No,"Yes, regularly",60,Both,5,0,2,3,3,Ambivert,5,Not applicable,0,0,Engineering,55,Prefer not to say,Prefer not to say,2,2
@@ -45,7 +45,7 @@ Dog,4,Country,Pizza,No,2,Alone,"Yes, regularly","Yes, regularly","Yes, infrequen
 Cat,2,Rock,Sushi,Yes,1,Alone,"Yes, regularly","Yes, regularly","Yes, regularly",45,Night owl,7,2,2,3,4,Ambivert,8,Instagram,50,400,Humanities and arts,20,Man,Democratic,2,2
 Cat,0,Pop,Vietnamese,No,3,Alone,"Yes, regularly",No,No,0,Night owl,8,1,4,2,5,Introvert,2,Youtube,40,1100,Sciences,19,Woman,Afflilation not listed,2,1
 Dog,1,Other,Sushi,Yes,4,Alone,"Yes, regularly",No,"Yes, regularly",240,Early bird,8,3,2,4,2,Ambivert,4,Instagram,60,185,Health sciences,18,Woman,Prefer not to say,4,3
-Cat,3,Jazz,Vietnamese,No,1,Alone,"Yes, regularly","Yes, infrequently","Yes, regularly",60,Night owl,7,2,2,3,5,Introvert,2,Instagram,60,23,Music,18,Man,Democratic,2,1
+Cat,3,Jazz,Vietnamese,No,1,Alone,"Yes, regularly","Yes, infrequently","Yes, regularly",60,Night owl,7,2,2,3,5,Introvert,2,Instagram,60,23,Humanities and arts,18,Man,Democratic,2,1
 Dog,0,Electronic,Pizza,Yes,4,Alone,"Yes, regularly","Yes, regularly","Yes, regularly",30,Both,7,1,4,3,5,Ambivert,2,Reddit,30,900,Social sciences,31,Man,Democratic,1,1
 Dog,0,Pop,Vietnamese,Yes,2,With others,"Yes, regularly",No,"Yes, regularly",120,Night owl,7,5,1,4,2,Extrovert,3,TikTok,120,721,Business,18,Woman,Prefer not to say,1,2
 Dog,0,Other,Sushi,Yes,4,Alone,"Yes, infrequently","Yes, infrequently","Yes, infrequently",45,Night owl,7,2,4,4,4,Ambivert,5,TikTok,180,207,Business,18,Woman,Democratic,2,1
@@ -53,7 +53,7 @@ Cat,2,Rock,Pizza,Yes,1,Alone,"Yes, infrequently",No,No,0,Night owl,5,1,5,2,4,Int
 Cat,1,Jazz,Vietnamese,Yes,3,Alone,No,No,"Yes, infrequently",60,Night owl,7,3,2,4,5,Ambivert,3,TikTok,120,360,Health sciences,18,Woman,Prefer not to say,1,2
 Cat,2,Hip hop,Mexican,No,2,With others,"Yes, infrequently",No,"Yes, infrequently",60,Night owl,8,0,4,4,5,Introvert,3,TikTok,5,0,Business,18,Woman,Democratic,4,3
 Dog,1,Other,Sushi,No,3,Alone,"Yes, regularly",No,"Yes, infrequently",60,Early bird,6,1,5,4,3,Ambivert,5,Instagram,60,150,Health sciences,42,Woman,Democratic,3,1
-Dog,1,Other,Mexican,Yes,1,With others,No,"Yes, infrequently","Yes, regularly",70,Night owl,7,1,3,2,5,Ambivert,5,TikTok,120,14,Nursing,20,Man,Democratic,3,2
+Dog,1,Other,Mexican,Yes,1,With others,No,"Yes, infrequently","Yes, regularly",70,Night owl,7,1,3,2,5,Ambivert,5,TikTok,120,14,Health sciences,20,Man,Democratic,3,2
 Dog,0,Hip hop,Sushi,No,2,Alone,"Yes, infrequently",No,"Yes, regularly",240,Night owl,8,5,2,4,2,Ambivert,5,TikTok,360,54,Health sciences,19,Man,Independent,1,3
 Cat,0,Other,Vietnamese,Yes,2,Alone,"Yes, infrequently","Yes, infrequently","Yes, infrequently",0,Night owl,8,2,2,3,5,Introvert,4,X / Twitter,60,0,Sciences,23,Man,Prefer not to say,2,1
 Cat,0,Hip hop,Mexican,Yes,2,Alone,"Yes, regularly","Yes, regularly","Yes, infrequently",30,Night owl,8,1,2,2,5,Introvert,2,X / Twitter,120,95,Social sciences,21,Man,Afflilation not listed,3,2
