@@ -177,7 +177,7 @@ Cat,1,Hip hop,Vietnamese,Yes,7,With others,No,"Yes, infrequently","Yes, infreque
 Cat,1,Pop,Sushi,No,2,Alone,No,"Yes, infrequently","Yes, infrequently",30,Early bird,8,2,4,5,1,Extrovert,5,TikTok,180,150,Sciences,29,Woman,Prefer not to say,4,2
 Cat,0,Pop,Sushi,No,4,Alone,"Yes, regularly",No,"Yes, regularly",90,Night owl,7,4,2,4,2,Introvert,1,Instagram,220,162,Health sciences,18,Man,Prefer not to say,3,2
 Cat,1,Pop,Sushi,Yes,4,Alone,No,No,"Yes, regularly",120,Night owl,8,8,3,2,3,Introvert,20,Instagram,120,280,Social sciences,19,Man,Prefer not to say,1,1
-Cat,0,Country,Sushi,Yes,5,Alone,No,No,No,30,Night owl,6,5,4,4,5,Introvert,5,Wechat,80,410,Business,21,Man,Independent,3,3
+Cat,0,Country,Sushi,Yes,5,Alone,No,No,No,30,Night owl,6,5,4,4,5,Introvert,5,WeChat,80,410,Business,21,Man,Independent,3,3
 Dog,0,Other,Sushi,Yes,5,Alone,"Yes, infrequently",No,"Yes, infrequently",60,Night owl,7,1,2,3,4,Ambivert,3,Instagram,60,235,Social sciences,19,Man,Prefer not to say,1,2
 Cat,0,Other,Sushi,Yes,2,Alone,"Yes, regularly",No,No,60,Night owl,6,3,5,2,5,Introvert,2,Instagram,240,755,Social sciences,17,Woman,Prefer not to say,1,1
 Dog,0,Pop,Sushi,Yes,3,With others,"Yes, regularly",No,"Yes, infrequently",60,Night owl,7,9,4,2,4,Ambivert,5,TikTok,120,650,Health sciences,17,Woman,Republican,3,2
@@ -186,10 +186,10 @@ Dog,0,Hip hop,Soul food,No,4,With others,No,No,No,120,Night owl,5,2,3,5,2,Introv
 Cat,0,Other,Pizza,No,8,Alone,No,No,No,60,Both,8,1,5,5,1,Ambivert,1,Not applicable,60,0,Sciences,25,Woman,Prefer not to say,3,3
 Dog,1,Country,Indian,Yes,4,Alone,"Yes, regularly",No,"Yes, regularly",90,Early bird,7,1,3,4,2,Introvert,0,Instagram,60,397,Health sciences,32,Woman,Democratic,1,1
 Cat,1,Hip hop,Sushi,No,4,Alone,No,"Yes, infrequently","Yes, regularly",30,Early bird,6,1,1,3,2,Introvert,5,Instagram,30,351,Engineering,51,Man,Democratic,2,2
-Dog,0,Classical,Sushi,No,6,Alone,No,No,"Yes, infrequently",20,Early bird,10,2,3,4,2,Extrovert,5,wechat,120,500,Education,28,Woman,Prefer not to say,4,2
+Dog,0,Classical,Sushi,No,6,Alone,No,No,"Yes, infrequently",20,Early bird,10,2,3,4,2,Extrovert,5,WeChat,120,500,Education,28,Woman,Prefer not to say,4,2
 Dog,0,Pop,Vietnamese,Yes,6,Alone,"Yes, regularly",No,"Yes, infrequently",30,Early bird,8,1,3,2,5,Introvert,3,Instagram,180,468,Business,19,Woman,Prefer not to say,3,2
 Dog,0,Classical,Sushi,Yes,2,Alone,"Yes, regularly",No,"Yes, infrequently",5,Night owl,6,2,4,3,5,Ambivert,4,Instagram,30,200,Health sciences,38,Woman,Prefer not to say,1,1
-Dog,0,Pop,Sushi,Yes,3,Alone,"Yes, regularly","Yes, infrequently",No,0,Night owl,7,2,1,4,4,Ambivert,7,Wechat,120,28,Business,39,Woman,Independent,2,3
+Dog,0,Pop,Sushi,Yes,3,Alone,"Yes, regularly","Yes, infrequently",No,0,Night owl,7,2,1,4,4,Ambivert,7,WeChat,120,28,Business,39,Woman,Independent,2,3
 Dog,0,Other,Sushi,Yes,7,With others,"Yes, infrequently",No,"Yes, regularly",120,Night owl,7,5,5,3,4,Ambivert,15,Instagram,90,250,Health sciences,20,Man,Prefer not to say,3,3
 Dog,0,Country,Soul food,Yes,3,Alone,No,No,"Yes, regularly",60,Night owl,5,4,4,3,4,Ambivert,1,none,0,0,Social sciences,18,Man,Prefer not to say,2,1
 Cat,0,Country,Mexican,No,6,Alone,No,"Yes, regularly","Yes, infrequently",30,Night owl,7,1,2,4,2,Introvert,5,Instagram,180,935,Business,29,Woman,Prefer not to say,3,1
@@ -212,7 +212,7 @@ Dog,2,Pop,Sushi,Yes,8,With others,"Yes, infrequently","Yes, infrequently",No,0,N
 Cat,3,Pop,Vietnamese,No,3,Alone,"Yes, regularly",No,"Yes, regularly",60,Early bird,7,3,4,3,4,Ambivert,2,Instagram,120,201,Business,19,Woman,Democratic,2,3
 Dog,0,Pop,Vietnamese,Yes,2,Alone,"Yes, infrequently",No,"Yes, regularly",90,Night owl,6,4,5,2,3,Ambivert,3,Instagram,95,774,Health sciences,21,Man,Afflilation not listed,2,2
 Dog,1,Pop,Sushi,Yes,5,Alone,"Yes, regularly",No,"Yes, regularly",0,Night owl,8,5,2,3,3,Introvert,2,Not applicable,240,50,Business,28,Woman,Prefer not to say,2,3
-Cat,0,Country,Sushi,Yes,5,Alone,"Yes, regularly",No,No,60,Early bird,6,1,5,4,3,Ambivert,3,Wechat,120,200,Education,31,Woman,Prefer not to say,2,3
+Cat,0,Country,Sushi,Yes,5,Alone,"Yes, regularly",No,No,60,Early bird,6,1,5,4,3,Ambivert,3,WeChat,120,200,Education,31,Woman,Prefer not to say,2,3
 Cat,11,Other,Indian,No,2,With others,No,No,"Yes, infrequently",60,Night owl,8,1,3,3,3,Introvert,5,Instagram,15,50,Health sciences,44,Woman,Prefer not to say,3,3
 Dog,2,Rock,Sushi,No,6,With others,"Yes, infrequently","Yes, infrequently","Yes, infrequently",20,Night owl,7,2,3,3,4,Ambivert,6,Facebook,40,30,Education,40,Woman,Prefer not to say,3,2
 Dog,1,Other,Vietnamese,No,2,Alone,"Yes, regularly",No,"Yes, infrequently",60,Night owl,6,2,3,5,1,Introvert,4,Instagram,40,101,Social sciences,31,Man,Democratic,2,2
@@ -229,7 +229,7 @@ Dog,1,Electronic,Pizza,Yes,3,Alone,"Yes, regularly","Yes, infrequently","Yes, re
 Dog,1,Hip hop,Vietnamese,Yes,4,Alone,"Yes, infrequently",No,"Yes, regularly",120,Night owl,8,2,4,3,5,Ambivert,4,Instagram,120,1300,Sciences,21,Man,Prefer not to say,2,2
 Dog,0,Pop,Sushi,Yes,5,With others,"Yes, infrequently",No,"Yes, regularly",45,Early bird,5,0,1,4,2,Extrovert,3,Not applicable,0,0,Health sciences,25,Woman,Prefer not to say,3,2
 Dog,1,Other,Mexican,Yes,3,With others,"Yes, regularly","Yes, regularly","Yes, infrequently",75,Night owl,4,5,3,2,4,Ambivert,3,Instagram,120,460,Health sciences,18,Woman,Prefer not to say,2,1
-Dog,0,Pop,Sushi,No,5,Alone,No,No,"Yes, infrequently",60,Night owl,7,3,5,4,4,Extrovert,30,Wechat,500,200,Education,33,Woman,Prefer not to say,3,1
+Dog,0,Pop,Sushi,No,5,Alone,No,No,"Yes, infrequently",60,Night owl,7,3,5,4,4,Extrovert,30,WeChat,500,200,Education,33,Woman,Prefer not to say,3,1
 Dog,2,Other,Mexican,Yes,3,With others,"Yes, regularly","Yes, infrequently","Yes, regularly",30,Night owl,6,0,2,4,2,Introvert,6,TikTok,120,365,Health sciences,27,Woman,Democratic,1,1
 Cat,2,Rock,Pizza,Yes,4,Alone,"Yes, infrequently","Yes, infrequently","Yes, regularly",120,Night owl,6,5,5,2,4,Ambivert,7,TikTok,300,600,Humanities and arts,20,Woman,Democratic,3,1
 Dog,2,Pop,Mexican,No,3,Alone,"Yes, infrequently",No,No,120,Night owl,8,0,2,2,4,Introvert,2,Facebook,180,700,Health sciences,23,Woman,Democratic,2,1
